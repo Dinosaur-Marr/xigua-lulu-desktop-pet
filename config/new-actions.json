@@ -1,0 +1,86 @@
+{
+  "nod": {
+    "name": "西瓜噜-点头认可",
+    "category": "互动"
+  },
+  "no": {
+    "name": "西瓜噜-摇头拒绝",
+    "category": "互动"
+  },
+  "wink": {
+    "name": "西瓜噜-歪头眨眼",
+    "category": "互动"
+  },
+  "kiss": {
+    "name": "西瓜噜-飞吻送心",
+    "category": "互动"
+  },
+  "hug": {
+    "name": "西瓜噜-抱心心",
+    "category": "互动"
+  },
+  "clap": {
+    "name": "西瓜噜-拍手鼓励",
+    "category": "互动"
+  },
+  "cheer": {
+    "name": "西瓜噜-举拳加油",
+    "category": "互动"
+  },
+  "beckon": {
+    "name": "西瓜噜-招手过来",
+    "category": "互动"
+  },
+  "shrug": {
+    "name": "西瓜噜-摊手耸肩",
+    "category": "互动"
+  },
+  "surprise": {
+    "name": "西瓜噜-瞪眼后仰",
+    "category": "情绪"
+  },
+  "sneeze": {
+    "name": "西瓜噜-打喷嚏",
+    "category": "日常"
+  },
+  "yawn": {
+    "name": "西瓜噜-大口哈欠",
+    "category": "日常"
+  },
+  "wake": {
+    "name": "西瓜噜-瞌睡惊醒",
+    "category": "情绪"
+  },
+  "listen": {
+    "name": "西瓜噜-侧耳倾听",
+    "category": "互动"
+  },
+  "disco": {
+    "name": "西瓜噜-交替举手舞",
+    "category": "运动"
+  },
+  "twist": {
+    "name": "西瓜噜-扭腰摆胯",
+    "category": "运动"
+  },
+  "squat": {
+    "name": "西瓜噜-蹲起锻炼",
+    "category": "运动"
+  },
+  "balance": {
+    "name": "西瓜噜-单脚平衡",
+    "category": "运动"
+  },
+  "kick": {
+    "name": "西瓜噜-向前踢腿",
+    "category": "运动"
+  },
+  "shakeoff": {
+    "name": "西瓜噜-抖抖甩水",
+    "category": "日常"
+  },
+  "thank": {
+    "name": "西瓜噜-合手致谢",
+    "category": "互动"
+  }
+}

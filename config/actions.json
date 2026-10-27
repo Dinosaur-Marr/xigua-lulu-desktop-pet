@@ -1,0 +1,242 @@
+[
+  {
+    "id": "idle",
+    "name": "轻轻呼吸",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "look",
+    "name": "左右张望",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "sway",
+    "name": "哼歌摇摆",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "wave",
+    "name": "短手挥三下",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "jump",
+    "name": "开心双跳",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "shy",
+    "name": "害羞缩一缩",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "angry",
+    "name": "跺脚小脾气",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "giggle",
+    "name": "挠痒笑抖",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "drag",
+    "name": "悬空轻晃",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "walk",
+    "name": "左右小碎步",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "run",
+    "name": "元气快步",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "float",
+    "name": "轻轻浮动",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "stretch",
+    "name": "舒展身体",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "bow",
+    "name": "点头致意",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "think",
+    "name": "歪头思考",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "busy",
+    "name": "忙碌点按",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "celebrate",
+    "name": "双跳星星庆祝",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "sad",
+    "name": "垂头叹气",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "sleep",
+    "name": "困倦打盹",
+    "new": false,
+    "category": "已有动作"
+  },
+  {
+    "id": "nod",
+    "name": "点头认可",
+    "new": true,
+    "category": "互动"
+  },
+  {
+    "id": "no",
+    "name": "摇头拒绝",
+    "new": true,
+    "category": "互动"
+  },
+  {
+    "id": "wink",
+    "name": "歪头眨眼",
+    "new": true,
+    "category": "互动"
+  },
+  {
+    "id": "kiss",
+    "name": "飞吻送心",
+    "new": true,
+    "category": "互动"
+  },
+  {
+    "id": "hug",
+    "name": "抱心心",
+    "new": true,
+    "category": "互动"
+  },
+  {
+    "id": "clap",
+    "name": "拍手鼓励",
+    "new": true,
+    "category": "互动"
+  },
+  {
+    "id": "cheer",
+    "name": "举拳加油",
+    "new": true,
+    "category": "互动"
+  },
+  {
+    "id": "beckon",
+    "name": "招手过来",
+    "new": true,
+    "category": "互动"
+  },
+  {
+    "id": "shrug",
+    "name": "摊手耸肩",
+    "new": true,
+    "category": "互动"
+  },
+  {
+    "id": "surprise",
+    "name": "瞪眼后仰",
+    "new": true,
+    "category": "情绪"
+  },
+  {
+    "id": "sneeze",
+    "name": "打喷嚏",
+    "new": true,
+    "category": "日常"
+  },
+  {
+    "id": "yawn",
+    "name": "大口哈欠",
+    "new": true,
+    "category": "日常"
+  },
+  {
+    "id": "wake",
+    "name": "瞌睡惊醒",
+    "new": true,
+    "category": "情绪"
+  },
+  {
+    "id": "listen",
+    "name": "侧耳倾听",
+    "new": true,
+    "category": "互动"
+  },
+  {
+    "id": "disco",
+    "name": "交替举手舞",
+    "new": true,
+    "category": "运动"
+  },
+  {
+    "id": "twist",
+    "name": "扭腰摆胯",
+    "new": true,
+    "category": "运动"
+  },
+  {
+    "id": "squat",
+    "name": "蹲起锻炼",
+    "new": true,
+    "category": "运动"
+  },
+  {
+    "id": "balance",
+    "name": "单脚平衡",
+    "new": true,
+    "category": "运动"
+  },
+  {
+    "id": "kick",
+    "name": "向前踢腿",
+    "new": true,
+    "category": "运动"
+  },
+  {
+    "id": "shakeoff",
+    "name": "抖抖甩水",
+    "new": true,
+    "category": "日常"
+  },
+  {
+    "id": "thank",
+    "name": "合手致谢",
+    "new": true,
+    "category": "互动"
+  }
+]

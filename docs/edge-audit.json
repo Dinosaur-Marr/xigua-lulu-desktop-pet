@@ -1,0 +1,908 @@
+{
+  "actions": 40,
+  "totalFrames": 4800,
+  "results": [
+    {
+      "id": "idle",
+      "name": "轻轻呼吸",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 2,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        216,
+        16,
+        424,
+        351
+      ],
+      "endpointError": 0.014599609375,
+      "reviewFrames": [
+        0,
+        30,
+        54,
+        80
+      ],
+      "sha256": "3e0f37a5d53c4b6035633f980036d8f7a1dde9ecdd4f0909a883adc925942656"
+    },
+    {
+      "id": "look",
+      "name": "左右张望",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        203,
+        16,
+        436,
+        351
+      ],
+      "endpointError": 0.015582682291666667,
+      "reviewFrames": [
+        0,
+        27,
+        58,
+        80
+      ],
+      "sha256": "bddc137799ef5120cc18b20dcdef53f0508bb817e65e0b67abc492872e61c447"
+    },
+    {
+      "id": "sway",
+      "name": "哼歌摇摆",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        195,
+        16,
+        434,
+        351
+      ],
+      "endpointError": 0.015072699652777778,
+      "reviewFrames": [
+        0,
+        26,
+        58,
+        80
+      ],
+      "sha256": "bd58b64e60decc03445fa902e8feab45ed08e230b2d9b6763dc0ffa34b793cf0"
+    },
+    {
+      "id": "wave",
+      "name": "短手挥三下",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        203,
+        22,
+        458,
+        351
+      ],
+      "endpointError": 0.007269965277777778,
+      "reviewFrames": [
+        0,
+        13,
+        39,
+        55
+      ],
+      "sha256": "fc49799a08856772c6f73dc5e3c30d9b3d30e1fa1871178db0784dcc94174189"
+    },
+    {
+      "id": "jump",
+      "name": "开心双跳",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 1,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        173,
+        9,
+        456,
+        351
+      ],
+      "endpointError": 0.012880859375,
+      "reviewFrames": [
+        22,
+        55,
+        80,
+        100
+      ],
+      "sha256": "4015b35cef152d3f4bfb64ab28c101e352bba78171e93918da7a57206a0dcfe3"
+    },
+    {
+      "id": "shy",
+      "name": "害羞缩一缩",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        212,
+        22,
+        424,
+        351
+      ],
+      "endpointError": 0.020412326388888888,
+      "reviewFrames": [
+        5,
+        30,
+        55,
+        80
+      ],
+      "sha256": "35a7b4d863499519e23922603d48846f9a6a1d8f4a85ba9f8fd901c61ce57367"
+    },
+    {
+      "id": "angry",
+      "name": "跺脚小脾气",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 2,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        185,
+        22,
+        450,
+        353
+      ],
+      "endpointError": 0.019674479166666668,
+      "reviewFrames": [
+        0,
+        12,
+        30,
+        55
+      ],
+      "sha256": "786bbe61136d4305c003361b4c21488f47224310bb134cf03fe94170acf73aef"
+    },
+    {
+      "id": "giggle",
+      "name": "挠痒笑抖",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        190,
+        13,
+        445,
+        351
+      ],
+      "endpointError": 0.017937282986111112,
+      "reviewFrames": [
+        15,
+        30,
+        55,
+        80
+      ],
+      "sha256": "9ac3bff6b380f766b3a00c8a12f28e59dd0fc768debf517d226eaf429fef26f0"
+    },
+    {
+      "id": "drag",
+      "name": "悬空轻晃",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 1,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        164,
+        15,
+        466,
+        351
+      ],
+      "endpointError": 0.017610677083333335,
+      "reviewFrames": [
+        0,
+        14,
+        30,
+        55
+      ],
+      "sha256": "4f6876c84de9560830670a0d18c71624def4ce6ff184363b0e3a0df54a907b9f"
+    },
+    {
+      "id": "walk",
+      "name": "左右小碎步",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 2,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        198,
+        20,
+        439,
+        352
+      ],
+      "endpointError": 0.009805772569444444,
+      "reviewFrames": [
+        23,
+        55,
+        80,
+        100
+      ],
+      "sha256": "baeb6b0708f17d388942eacfdf621038f3ffd5221a266c5556ae664780f3cd5b"
+    },
+    {
+      "id": "run",
+      "name": "元气快步",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 1,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        192,
+        20,
+        444,
+        352
+      ],
+      "endpointError": 0.009702690972222223,
+      "reviewFrames": [
+        19,
+        30,
+        55,
+        80
+      ],
+      "sha256": "7a4cf229a81261e62db6f97abf108de9d778bf38f7101808d3d0a3a90168d3f7"
+    },
+    {
+      "id": "float",
+      "name": "轻轻浮动",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 5,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        201,
+        20,
+        437,
+        352
+      ],
+      "endpointError": 0.010104166666666666,
+      "reviewFrames": [
+        14,
+        27,
+        55,
+        80
+      ],
+      "sha256": "6907f42cfd60dd284c9dc064602bef611afbd440fb1585f57bec1ce74ae9c459"
+    },
+    {
+      "id": "stretch",
+      "name": "舒展身体",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        174,
+        16,
+        455,
+        351
+      ],
+      "endpointError": 0.018592664930555555,
+      "reviewFrames": [
+        10,
+        30,
+        55,
+        111
+      ],
+      "sha256": "f00ea383654f5e8623251efd932f1b6e5e7b01c1d1e00690610121abe31fde3d"
+    },
+    {
+      "id": "bow",
+      "name": "点头致意",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        213,
+        22,
+        424,
+        351
+      ],
+      "endpointError": 0.01912651909722222,
+      "reviewFrames": [
+        0,
+        11,
+        30,
+        117
+      ],
+      "sha256": "eb26b923dd074e098021710ab57629c298b3f1189fa3c91362305f4f20c501ac"
+    },
+    {
+      "id": "think",
+      "name": "歪头思考",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        201,
+        16,
+        436,
+        351
+      ],
+      "endpointError": 0.0157421875,
+      "reviewFrames": [
+        21,
+        58,
+        80,
+        100
+      ],
+      "sha256": "774e84e1b1a6b118b43bbc02473e3bb995d876183707527fe65f34c07e5dceb0"
+    },
+    {
+      "id": "busy",
+      "name": "忙碌点按",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        189,
+        16,
+        452,
+        351
+      ],
+      "endpointError": 0.014361979166666667,
+      "reviewFrames": [
+        0,
+        30,
+        49,
+        80
+      ],
+      "sha256": "9992dd22e1f38dbbf2ed69a343fa9d81dcb481a377638cdafcb813e63c60e495"
+    },
+    {
+      "id": "celebrate",
+      "name": "双跳星星庆祝",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 1,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        154,
+        9,
+        483,
+        351
+      ],
+      "endpointError": 0.012628038194444444,
+      "reviewFrames": [
+        4,
+        26,
+        55,
+        80
+      ],
+      "sha256": "6ef5a51e7759f415f26c356873a1e23c14ae50c487b971ed3ef6e48c91a01749"
+    },
+    {
+      "id": "sad",
+      "name": "垂头叹气",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        205,
+        22,
+        424,
+        351
+      ],
+      "endpointError": 0.018235677083333332,
+      "reviewFrames": [
+        0,
+        12,
+        30,
+        55
+      ],
+      "sha256": "888a3bdf8b33b4f34e268ae65258eed4112dfee50c740855b39558c41e679f37"
+    },
+    {
+      "id": "sleep",
+      "name": "困倦打盹",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        203,
+        22,
+        424,
+        351
+      ],
+      "endpointError": 0.01845486111111111,
+      "reviewFrames": [
+        10,
+        38,
+        55,
+        80
+      ],
+      "sha256": "a2fe26943ee37bf81aa09e0be91744ae0f89e16a9a46d48810b3af8aa814b838"
+    },
+    {
+      "id": "nod",
+      "name": "点头认可",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        214,
+        22,
+        424,
+        351
+      ],
+      "endpointError": 0.008878038194444444,
+      "reviewFrames": [
+        0,
+        29,
+        55,
+        80
+      ],
+      "sha256": "7132d5a91e713dac82f944aaea8915325f531ad2a95da0749a4ab536d9f47bb4"
+    },
+    {
+      "id": "no",
+      "name": "摇头拒绝",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        203,
+        21,
+        455,
+        351
+      ],
+      "endpointError": 0.00912868923611111,
+      "reviewFrames": [
+        23,
+        39,
+        55,
+        80
+      ],
+      "sha256": "5672ded84e8ffa0a6c2f81bf145b064f9660418b26ed40bb224dd6b9ac33144c"
+    },
+    {
+      "id": "wink",
+      "name": "歪头眨眼",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        200,
+        22,
+        438,
+        351
+      ],
+      "endpointError": 0.008866102430555555,
+      "reviewFrames": [
+        0,
+        18,
+        30,
+        55
+      ],
+      "sha256": "f977a89d11395a2c5f75232141631cad7dee060862a8cf03b03f7eb7e7a14a3d"
+    },
+    {
+      "id": "kiss",
+      "name": "飞吻送心",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        197,
+        21,
+        445,
+        351
+      ],
+      "endpointError": 0.008990885416666667,
+      "reviewFrames": [
+        0,
+        23,
+        55,
+        80
+      ],
+      "sha256": "a209e06f1cef46c1c7ee28ef3d4c69e28b109f781a82b1df626d915d1056d3ba"
+    },
+    {
+      "id": "hug",
+      "name": "抱心心",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        211,
+        21,
+        424,
+        351
+      ],
+      "endpointError": 0.008855251736111111,
+      "reviewFrames": [
+        0,
+        30,
+        55,
+        72
+      ],
+      "sha256": "98c8bf741bb63268b09457e1c5a55a54c722846d34abe050206cf2d2b9092f13"
+    },
+    {
+      "id": "clap",
+      "name": "拍手鼓励",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        216,
+        22,
+        424,
+        351
+      ],
+      "endpointError": 0.008968098958333334,
+      "reviewFrames": [
+        0,
+        28,
+        55,
+        80
+      ],
+      "sha256": "4a8cd7e123fae482fad89b643d322a4a17abe712923549e58cb5dfd532cb8e2d"
+    },
+    {
+      "id": "cheer",
+      "name": "举拳加油",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        179,
+        22,
+        424,
+        351
+      ],
+      "endpointError": 0.009009331597222222,
+      "reviewFrames": [
+        0,
+        14,
+        29,
+        55
+      ],
+      "sha256": "2cf507251a67b6edea40b13d01afb4d4671dc49eab18bc31c6893862195ba5bc"
+    },
+    {
+      "id": "beckon",
+      "name": "招手过来",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        202,
+        20,
+        450,
+        351
+      ],
+      "endpointError": 0.009009331597222222,
+      "reviewFrames": [
+        21,
+        37,
+        55,
+        80
+      ],
+      "sha256": "98baf57809ff5f08eb419e7a2d99d9619be32eae62963795f51c3f90fbfaf232"
+    },
+    {
+      "id": "shrug",
+      "name": "摊手耸肩",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        175,
+        17,
+        454,
+        351
+      ],
+      "endpointError": 0.009164496527777777,
+      "reviewFrames": [
+        0,
+        30,
+        62,
+        79
+      ],
+      "sha256": "a2464ec20b7d883d8d5ae9ae14f1d4d5b6a826c988f657c02db5dc74773c351d"
+    },
+    {
+      "id": "surprise",
+      "name": "瞪眼后仰",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        189,
+        17,
+        458,
+        351
+      ],
+      "endpointError": 0.009330512152777777,
+      "reviewFrames": [
+        0,
+        25,
+        55,
+        80
+      ],
+      "sha256": "2b5425eede9107b16762aaac9cd7b4792a88c60db12973da50736895528bac22"
+    },
+    {
+      "id": "sneeze",
+      "name": "打喷嚏",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        198,
+        20,
+        434,
+        351
+      ],
+      "endpointError": 0.008843315972222222,
+      "reviewFrames": [
+        20,
+        46,
+        80,
+        100
+      ],
+      "sha256": "2539a8e34f5edf0e667f46a8f0b71b3ef7f41426d8300819e28cdccca2d13d08"
+    },
+    {
+      "id": "yawn",
+      "name": "大口哈欠",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        192,
+        17,
+        446,
+        351
+      ],
+      "endpointError": 0.008861762152777777,
+      "reviewFrames": [
+        0,
+        36,
+        55,
+        80
+      ],
+      "sha256": "16c8bfead5a27d2e07b9c71ca55e5b35e8a478ab45c4685c97f7ea95d67e1f54"
+    },
+    {
+      "id": "wake",
+      "name": "瞌睡惊醒",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        179,
+        18,
+        450,
+        351
+      ],
+      "endpointError": 0.008958333333333334,
+      "reviewFrames": [
+        16,
+        30,
+        56,
+        80
+      ],
+      "sha256": "9ba6bff62f90f80afac31a15cbd4bcc9078d768024d777cae0506f0cabc001c8"
+    },
+    {
+      "id": "listen",
+      "name": "侧耳倾听",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        186,
+        21,
+        430,
+        351
+      ],
+      "endpointError": 0.008803168402777778,
+      "reviewFrames": [
+        14,
+        30,
+        55,
+        80
+      ],
+      "sha256": "e8656fa58c19b1e172885fc54216a98fc67819fa17ed317260b11c7e8c11085d"
+    },
+    {
+      "id": "disco",
+      "name": "交替举手舞",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        178,
+        22,
+        454,
+        351
+      ],
+      "endpointError": 0.009219835069444444,
+      "reviewFrames": [
+        0,
+        24,
+        44,
+        55
+      ],
+      "sha256": "2282af7e29c52a630d98201271ab65f273352ee64d6664204adbe5dc285443f5"
+    },
+    {
+      "id": "twist",
+      "name": "扭腰摆胯",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        199,
+        22,
+        438,
+        351
+      ],
+      "endpointError": 0.008996310763888888,
+      "reviewFrames": [
+        0,
+        25,
+        55,
+        80
+      ],
+      "sha256": "1c84e9390cc8062c0faba6006c4d8ef920ce856420754484093a2bdf166e9030"
+    },
+    {
+      "id": "squat",
+      "name": "蹲起锻炼",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        179,
+        22,
+        450,
+        351
+      ],
+      "endpointError": 0.008878038194444444,
+      "reviewFrames": [
+        0,
+        30,
+        55,
+        80
+      ],
+      "sha256": "4dfb23670c08c7780a66fdb5634e18f6d78cd0bb2694fc6682ca15b1f7b95a29"
+    },
+    {
+      "id": "balance",
+      "name": "单脚平衡",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 4,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        173,
+        22,
+        448,
+        352
+      ],
+      "endpointError": 0.010448133680555555,
+      "reviewFrames": [
+        0,
+        27,
+        55,
+        80
+      ],
+      "sha256": "2ca819fdeca97d7bf8e9447ec8a388865442ef9190a485f82ea856db8f1d14e2"
+    },
+    {
+      "id": "kick",
+      "name": "向前踢腿",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 2,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        189,
+        22,
+        449,
+        352
+      ],
+      "endpointError": 0.008870442708333334,
+      "reviewFrames": [
+        0,
+        24,
+        36,
+        55
+      ],
+      "sha256": "e06499fe8d4e3c1a94833f73ab96e1f0c9d9b3dd5a7c9e1b22210a765b2bc06e"
+    },
+    {
+      "id": "shakeoff",
+      "name": "抖抖甩水",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        163,
+        21,
+        478,
+        351
+      ],
+      "endpointError": 0.009235026041666667,
+      "reviewFrames": [
+        24,
+        45,
+        80,
+        100
+      ],
+      "sha256": "b59d54635ecab87664a3b2f9a9597f7da2613f9b4b91c22158d86ea86b13017c"
+    },
+    {
+      "id": "thank",
+      "name": "合手致谢",
+      "frames": 120,
+      "canvasEdgeMaxAlpha": 0,
+      "handResiduePixels": 0,
+      "visibleBounds": [
+        216,
+        22,
+        424,
+        351
+      ],
+      "endpointError": 0.008951822916666666,
+      "reviewFrames": [
+        0,
+        30,
+        52,
+        80
+      ],
+      "sha256": "8f9b09e51a3efd6124f382db25767540ce4fdde30fb319e1b15af4d060912969"
+    }
+  ],
+  "closestMotions": [
+    {
+      "a": "jump",
+      "b": "celebrate",
+      "difference": 0.23695235906862747
+    },
+    {
+      "a": "look",
+      "b": "think",
+      "difference": 1.4084188623366012
+    },
+    {
+      "a": "sad",
+      "b": "sleep",
+      "difference": 1.592369940597767
+    },
+    {
+      "a": "clap",
+      "b": "thank",
+      "difference": 1.7614848217933006
+    },
+    {
+      "a": "hug",
+      "b": "clap",
+      "difference": 1.7780769165305008
+    },
+    {
+      "a": "nod",
+      "b": "clap",
+      "difference": 2.4336570457175926
+    },
+    {
+      "a": "idle",
+      "b": "nod",
+      "difference": 2.449505548747277
+    },
+    {
+      "a": "nod",
+      "b": "cheer",
+      "difference": 2.465278203295207
+    },
+    {
+      "a": "hug",
+      "b": "thank",
+      "difference": 2.491606136812364
+    },
+    {
+      "a": "clap",
+      "b": "cheer",
+      "difference": 2.597257008272059
+    }
+  ],
+  "visualReviewSheets": [
+    "edge-review-1.jpg",
+    "edge-review-2.jpg",
+    "edge-review-3.jpg",
+    "edge-review-4.jpg",
+    "edge-review-5.jpg",
+    "edge-review-6.jpg",
+    "edge-review-7.jpg",
+    "edge-review-8.jpg"
+  ]
+}

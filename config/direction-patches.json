@@ -1,0 +1,17 @@
+[
+  {
+    "file": "runtime/electron-helper/sprite.js",
+    "before": "const dir = (this.facing === 'right') !== this.animations.turn.includes(this.anim) ? 1 : -1;",
+    "after": "const dir = this.facing === 'right' ? 1 : -1;"
+  },
+  {
+    "file": "src/client/pet.ts",
+    "before": "const dir = (facingRef.current === 'right') !== petAnims.turn.includes(animRef.current) ? 1 : -1;",
+    "after": "const dir = facingRef.current === 'right' ? 1 : -1;"
+  },
+  {
+    "file": "lib/client.js",
+    "before": "const dir = facingRef.current === \"right\" !== petAnims.turn.includes(animRef.current) ? 1 : -1;",
+    "after": "const dir = facingRef.current === \"right\" ? 1 : -1;"
+  }
+]

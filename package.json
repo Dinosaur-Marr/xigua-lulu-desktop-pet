@@ -1,0 +1,15 @@
+{
+  "name": "xigua-lulu-desktop-pet",
+  "version": "1.0.0",
+  "private": true,
+  "description": "西瓜噜噜桌宠：DeepSeek Harness 的 40 动作角色包",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "test": "node --test tests/install.test.mjs",
+    "verify": "node install.mjs --verify"
+  }
+}

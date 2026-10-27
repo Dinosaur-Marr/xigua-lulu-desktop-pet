@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+*.pyc
+.env*
+test-tmp/
+animation-src/outputs/*/clips/
+animation-src/outputs/*/backup*/
