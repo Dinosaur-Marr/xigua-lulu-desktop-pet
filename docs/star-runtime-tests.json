@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "costumes": 3,
+  "directedRoutes": 6,
+  "aliasesChecked": 381,
+  "cases": [
+    "all six directed dressing routes",
+    "automatic/manual three-costume cycle",
+    "each direct menu choice",
+    "same costume no-op",
+    "all action aliases in every costume",
+    "interruption before/after step-in",
+    "persisted costume migration",
+    "failed load",
+    "busy guards",
+    "menu isolation",
+    "other pet isolation"
+  ]
+}

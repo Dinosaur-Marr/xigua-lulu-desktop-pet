@@ -1,0 +1,322 @@
+[
+  {
+    "id": "idle",
+    "frames": 120,
+    "decodedEdgeAlpha": 2,
+    "silhouetteMaxDelta": 0,
+    "sha256": "9fd86671847065df646960ac7b9fbf71d04083d36414a60be616f46695f46d95"
+  },
+  {
+    "id": "look",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "65b928712a8071f13de668ad22f3a62568ca3dce92df449b57ba2139345863ba"
+  },
+  {
+    "id": "sway",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "4190e00c467e9ba971c579c2ee791e61bb811a4c0c19735a4ccddbf066504224"
+  },
+  {
+    "id": "wave",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "2a1c0cc4b99e17e530db68427e953623332406c185173032d9055845760b9f26"
+  },
+  {
+    "id": "jump",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "e80cac6c779ede6f16a5fd28a02077f74520c25bb1414420f9fc20d6d83149e7"
+  },
+  {
+    "id": "shy",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "17eeb172f374b1361ecc930caafdf946d52574bc1716a71b75070e0603431c2d"
+  },
+  {
+    "id": "angry",
+    "frames": 120,
+    "decodedEdgeAlpha": 1,
+    "silhouetteMaxDelta": 0,
+    "sha256": "f10784d2934216d1e516365814c0fa908350f7b5991ec7b8a23839c126db74ef"
+  },
+  {
+    "id": "giggle",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "93bccecc6ac3bcce321cfe1934229f954ff4bac3bfdc489d37be2d648ca8dc3e"
+  },
+  {
+    "id": "drag",
+    "frames": 120,
+    "decodedEdgeAlpha": 2,
+    "silhouetteMaxDelta": 0,
+    "sha256": "4d21e516ac62863d39a491037a7a5b715a6116a8613a3360d815de51ecd6d334"
+  },
+  {
+    "id": "walk",
+    "frames": 120,
+    "decodedEdgeAlpha": 2,
+    "silhouetteMaxDelta": 0,
+    "sha256": "15c79b03bd26030cfaa0adea163905cbfa14133e013f0fb90c0d4f2e0797e0cf"
+  },
+  {
+    "id": "run",
+    "frames": 120,
+    "decodedEdgeAlpha": 1,
+    "silhouetteMaxDelta": 0,
+    "sha256": "6bcb3adf69361003ebdf28710548d7bf7503db7c12154d7c04de0faccf8c0089"
+  },
+  {
+    "id": "float",
+    "frames": 120,
+    "decodedEdgeAlpha": 3,
+    "silhouetteMaxDelta": 0,
+    "sha256": "a6f657c1b7909b381414e779da348b7ddc5d9b2d153a4524e93bb1a8f103d62e"
+  },
+  {
+    "id": "stretch",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "2eb59f30d2363f5684f0e27a728595d9a29bfb67a2719595758d63fc037084bd"
+  },
+  {
+    "id": "bow",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "05022605291c844bc8bd79d80d4bcd2166f3195b004036fe495ba274261b137f"
+  },
+  {
+    "id": "think",
+    "frames": 120,
+    "decodedEdgeAlpha": 1,
+    "silhouetteMaxDelta": 0,
+    "sha256": "29cff052c964496322408d048fa6edf26d1f2b624cf534a499c47e911c5c411b"
+  },
+  {
+    "id": "busy",
+    "frames": 120,
+    "decodedEdgeAlpha": 2,
+    "silhouetteMaxDelta": 0,
+    "sha256": "4ed076fc3d8e91ded75dee90019241065ee590b4036816a7c0a52eda601916aa"
+  },
+  {
+    "id": "celebrate",
+    "frames": 120,
+    "decodedEdgeAlpha": 1,
+    "silhouetteMaxDelta": 0,
+    "sha256": "20e86bcca3216c6170211027f6d18dec4922ad87a8de74c908d749b854d8e597"
+  },
+  {
+    "id": "sad",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "3232bdc4f39b32cfacf5580dd9a10e7b8c82a490b49cfe455b1d918708af759b"
+  },
+  {
+    "id": "sleep",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "d43f7c6e5e616ca54f75aa90208c872049b097f7b8ad3c9cf1b2d5dd0126176e"
+  },
+  {
+    "id": "nod",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "8657961f1fc9476af1bbba7988fbbb6cce9d9ba26bbc8e94bc44f42bb8156ffe"
+  },
+  {
+    "id": "no",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "e14498de20e707fa33bfdcc7780d65d172e45236ab983a7da6b603d1a3085d6a"
+  },
+  {
+    "id": "wink",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "fe7d1746e003b9b55fcc71a418d23527e3f835d62ddbdca55e9ba877ee2d4500"
+  },
+  {
+    "id": "kiss",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "c0aa53b141a49c53530df1cd831f5059389d90b19f92e081785d4aa8b1d46693"
+  },
+  {
+    "id": "hug",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "b82fdceec312e76f812f3f519791b297794c3266c2e47080fced885a74ce4d60"
+  },
+  {
+    "id": "clap",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "dfebfc2229cc7e321d7300c55627a3bdb2127c15bd65ca7317a5fbca0e44be99"
+  },
+  {
+    "id": "cheer",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "2f5c33e42aa397b8409dd94dd85ede1eb1cbe544ba7335004a955fd770e6e69e"
+  },
+  {
+    "id": "beckon",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "e0778e576e7026751b688ee506b048389e64c46df236ed72a75f5f00bf9cfc60"
+  },
+  {
+    "id": "shrug",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "1781494a913667e424c621b827e0ae3898f3c4df3f3b0114ae7cf7ab4aad82e0"
+  },
+  {
+    "id": "surprise",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "d46e4f370b01f945091a0560dce101fed1e2567e1c78e2b595a151d7ba934d8d"
+  },
+  {
+    "id": "sneeze",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "80f202858faa43f5c7fb8f9e59e5ac0b2fed11a29c3e5788ea033f99d03b329b"
+  },
+  {
+    "id": "yawn",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "38359002274e40fde8dfeaee77ee69854afad10252024f5ae434c1ee2f3ad138"
+  },
+  {
+    "id": "wake",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "731c1c9872435b251c916a65357a87cbc191f20dc9cb6145518664bc23f1b4ad"
+  },
+  {
+    "id": "listen",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "2cd1c6d9eb327820e26ffd2b2565ed53153975e2677a1bfc6cd344ae2b682c79"
+  },
+  {
+    "id": "disco",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "2b46fff9fba7e8b4a59ab81a4d96957eaeaf599f8fefcbe97a30f1001255ba32"
+  },
+  {
+    "id": "twist",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "d6b198242bb6fde0ee9853133684ef7f1263300a717943bb6339b4632224186e"
+  },
+  {
+    "id": "squat",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "41074fbb98c42efb7abb9c82335a2ad7a5ecb708306e2d904c3af6fc1794b3ca"
+  },
+  {
+    "id": "balance",
+    "frames": 120,
+    "decodedEdgeAlpha": 3,
+    "silhouetteMaxDelta": 0,
+    "sha256": "a1e1e3dbb8a9fd5680f64c6daf25a182484fc5dd592e1a0dcd85fc1f0d820ddd"
+  },
+  {
+    "id": "kick",
+    "frames": 120,
+    "decodedEdgeAlpha": 2,
+    "silhouetteMaxDelta": 0,
+    "sha256": "7a3e168a29bfacde2cc8b1dddb51add7d9a1efa0f47d24a9fb89849110caf6b7"
+  },
+  {
+    "id": "shakeoff",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "d68089b7ec9079650781fb21b32f414554759df38e7e6155bac30687325c834c"
+  },
+  {
+    "id": "thank",
+    "frames": 120,
+    "decodedEdgeAlpha": 0,
+    "silhouetteMaxDelta": 0,
+    "sha256": "7f9236927da741df058026049e8e6e70aa8c0400bf986133c47a1f1486ad4afc"
+  },
+  {
+    "id": "change-watermelon-star",
+    "frames": 240,
+    "seconds": 10,
+    "decodedEdgeAlpha": 0,
+    "physicalDressing": true,
+    "source": "watermelon",
+    "target": "star",
+    "sha256": "6043ccc24eef8ae464132b5b1e83578db257667795e47983211dcc396311348a"
+  },
+  {
+    "id": "change-orange-star",
+    "frames": 240,
+    "seconds": 10,
+    "decodedEdgeAlpha": 0,
+    "physicalDressing": true,
+    "source": "orange",
+    "target": "star",
+    "sha256": "9d27649fe9490c9c345ba953af39bb6c63256cac8f7a51b554953f151ddb4a10"
+  },
+  {
+    "id": "change-star-watermelon",
+    "frames": 240,
+    "seconds": 10,
+    "decodedEdgeAlpha": 0,
+    "physicalDressing": true,
+    "source": "star",
+    "target": "watermelon",
+    "sha256": "1e449b1df5529f4dfc4f46b042e923ff7e9f810f304b6f81633be8868c62b24c"
+  },
+  {
+    "id": "change-star-orange",
+    "frames": 240,
+    "seconds": 10,
+    "decodedEdgeAlpha": 0,
+    "physicalDressing": true,
+    "source": "star",
+    "target": "orange",
+    "sha256": "99dc0e3eab8edae391ae3404f8a72a01451d2e7a8eb625f2c86a13f92e22ecb8"
+  }
+]

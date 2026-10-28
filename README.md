@@ -4,7 +4,13 @@
 
 ![西瓜噜噜](docs/character.png)
 
-**40 组独立动作 · 27 张配图 · 透明背景 · 可备份恢复**
+**40 组独立动作 × 3 款裤子 · 6 个换装方向 · 27 张配图 · 可备份恢复**
+
+最新版 **v1.1.0**：西瓜裤、橙色裤、蓝底黄星星裤。桌面端空闲约每 3～5 分钟轮换；右键 → 动作 → 换装，可指定款式。换装有完整脱裤、抬脚、穿裤动作，并修复颈肩接缝与白色打底裤透过手臂的问题。网页端保留原有西瓜裤动作，自动换装仅支持桌面端。
+
+[观看三款换装预览](docs/wardrobe-preview.mp4)
+
+![星星裤动作](docs/wardrobe.jpg)
 
 [观看动作预览](docs/preview.mp4) · [给 DeepSeek 的安装说明](INSTALL_FOR_DEEPSEEK.md) · [动作清单](config/actions.json)
 
@@ -45,13 +51,13 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\install.ps1 -DryRun
 
 ## 具体改动
 
-- 安装 40 个透明 WebM 动作；每个 5 秒、24 帧/秒、640×360。
+- 安装 120 个常规动作素材（40 组动作 × 3 款裤子），以及 6 段各 10 秒的换装素材。常规动作每个 5 秒；均为 24 帧/秒、640×360 透明 WebM。
 - 通过 127 个旧/新动作别名兼容原有触发入口；**127 不代表 127 个独立动作**。
 - 替换 27 张聊天/碎碎念配图为西瓜噜噜；更新名字、人设和动作分配。
 - 修正桌面端和网页端的行走方向，保留裤子与腿一起运动的步态。
 - 保留已有模型选择、聊天记忆、桌宠大小、位置和显示方式。首次安装默认关闭自动碎碎念和余额检查，可在设置里自行开启。
 
-只写入选定 `DSH_HOME` 中的 `dsh-pet` 角色文件、指定 profile 的三处朝向代码，以及 `xigua-lulu-backups` 备份目录。每次安装先完成素材哈希与版本检查，再备份实际涉及的文件。不会操作用户工作空间。
+只写入选定 `DSH_HOME` 中的 `dsh-pet` 角色文件、指定 profile 的朝向代码、桌面换装脚本及其入口，以及 `xigua-lulu-backups` 备份目录。每次安装先完成素材哈希与版本检查，再备份实际涉及的文件。不会操作用户工作空间。
 
 ## 恢复
 
@@ -69,14 +75,17 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\install.ps1 -Restore "安�
 
 ```powershell
 python -m pip install -r animation-src/requirements.txt
-python animation-src/render.py --action hug --output custom/hug.webm
+python animation-src/render.py --action hug --costume star --output custom/hug.webm
+python animation-src/render.py --action change --from-costume watermelon --costume star --output custom/change.webm
 ```
 
 需要 PATH 中有支持 `libvpx-vp9` 的 FFmpeg，或用 `FFMPEG_BINARY` 环境变量指定。渲染入口为 `animation-src/render.py`；`work/` 下旧的批处理入口保留了开发过程的目录依赖，请通过统一入口生成单个动作。新生成的视频需要重新检查透明边缘和动作，再更新校验清单，不会自动替换已安装素材。
 
 安装器测试：`node --test tests/install.test.mjs`。包校验：`node install.mjs --verify`。
 
-本次发布使用已检查的 40 组素材；[边缘检查报告](docs/edge-audit.json)覆盖 4,800 帧。像素检查不能保证每个动作都符合所有人的审美；目前是二维图层动画，大幅转身和复杂关节动作仍有限制。
+本次发布新增橙裤与星星裤动作、六个换装方向；换装和各款关键画面已经检查，检查报告见 docs/。原皮无裤版本仅做过概念预览，未作为可用皮肤发布。
+
+基础西瓜裤的[边缘检查报告](docs/edge-audit.json)覆盖 4,800 帧。像素检查不能保证每个动作都符合所有人的审美；目前是二维图层动画，大幅转身和复杂关节动作仍有限制。
 
 ## 来源与许可
 

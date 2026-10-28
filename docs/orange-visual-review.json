@@ -1,0 +1,21 @@
+{
+  "notes": "Inspected decoded poses on light/dark backgrounds; clothes hems, waist, hands, crouch and stepping phases reviewed. Forty costume variants preserve original alpha silhouettes. Physical take-off/put-on replaces the earlier flash prototype.",
+  "sheets": [
+    "wardrobe-review-1.jpg",
+    "wardrobe-review-2.jpg",
+    "wardrobe-review-3.jpg",
+    "wardrobe-review-4.jpg",
+    "wardrobe-review-5.jpg",
+    "wardrobe-review-6.jpg",
+    "wardrobe-review-7.jpg",
+    "wardrobe-review-8.jpg"
+  ],
+  "decodedFrames": 5280,
+  "reviewed": true,
+  "dressingDirections": 2,
+  "actions": 40,
+  "transitionSheets": [
+    "dressing-review.jpg",
+    "change-review.jpg"
+  ]
+}

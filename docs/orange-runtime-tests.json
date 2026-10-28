@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "aliasesChecked": 127,
+  "cases": [
+    "automatic cooldown",
+    "manual toggle both ways",
+    "all aliases",
+    "interruption before/after change",
+    "persistence",
+    "failed load",
+    "menu isolation",
+    "busy guards",
+    "other pet isolation"
+  ]
+}

@@ -51,6 +51,10 @@ export function verifyPack(root=ROOT) {
   for(const a of actions)if(!manifest.files['assets/clips/'+a.id+'.webm'])throw Error('Unverified clip');
   for(const name of Object.keys(memes))if(!manifest.files['assets/memes/'+name+'.png'])throw Error('Unverified meme');
   for(const name of ['animations','direction-patches','mapping','memes','actions'])if(!manifest.files['config/'+name+'.json'])throw Error('Unverified config');
+  if(!manifest.files['config/wardrobe.json'] || !manifest.files['runtime/lulu-wardrobe.js'])throw Error('Unverified wardrobe runtime');
+  const wardrobe=json(path.join(root,'config/wardrobe.json'));
+  if(wardrobe.length!==86 || new Set(wardrobe.map(a=>a.name)).size!==86)throw Error('Incomplete wardrobe');
+  for(const entry of wardrobe)if(!/^lulu-(?:(?:orange|star)-[a-z]+|change-(?:orange|watermelon)|change-(?:orange|watermelon)-star|change-star-(?:orange|watermelon))$/.test(entry.name)||entry.file!==`assets/wardrobe/${entry.name}.webm`||!manifest.files[entry.file])throw Error('Unverified wardrobe clip');
   return {manifest,actions,mapping,memes};
 }
 const defaultPet = {id:'main',name:'西瓜噜噜',size:462,balanceEnabled:false,whisperEnabled:false,workStatusEnabled:true,fixedEnabled:false,display:'desktop',position:{corner:'bottom-right',marginX:24,marginY:24}};
@@ -71,6 +75,15 @@ export function planInstall({root=ROOT,dshHome=process.env.DSH_HOME||path.join(o
     if(/[\\/:*?"<>|]/.test(name))throw Error('Invalid meme name');
     add(`dsh-pet/memes/${name}.png`,fs.readFileSync(path.join(root,'assets/memes',name+'.png')));
   }
+  for(const entry of json(path.join(root,'config/wardrobe.json')))add(`dsh-pet/main-animation/webm/${entry.name}.webm`,fs.readFileSync(safe(root,entry.file)));
+  const helper=`profiles/${profile}/node_modules/dsh-pet/runtime/electron-helper`;
+  const index=fs.readFileSync(safe(dshHome,helper+'/index.html'),'utf8');
+  const anchor='<script src="./sprite.js"></script>';
+  if(!index.includes('<script src="./lulu-wardrobe.js"></script>')){
+    if(index.split(anchor).length!==2)throw Error('Unsupported desktop helper entry; no files were changed.');
+    add(helper+'/index.html',index.replace(anchor,anchor+'\n    <script src="./lulu-wardrobe.js"></script>'));
+  }
+  add(helper+'/lulu-wardrobe.js',fs.readFileSync(path.join(root,'runtime/lulu-wardrobe.js')));
   for(const patch of json(path.join(root,'config/direction-patches.json'))){
     const relative=`profiles/${profile}/node_modules/dsh-pet/${patch.file}`,target=safe(dshHome,relative);
     if(!fs.existsSync(target)&&patch.file.startsWith('src/'))continue;
@@ -120,7 +133,7 @@ export function install(options={}) {
     }
     receipt.state='rolled-back';fs.writeFileSync(receiptFile,JSON.stringify(receipt,null,2));throw error;
   }
-  return {installed:true,files:plan.changes.length,backup,actions:40,memes:27,restartRequired:true};
+  return {installed:true,files:plan.changes.length,backup,actions:40,costumes:3,dressingRoutes:6,memes:27,restartRequired:true};
 }
 export function restore(backup,{dshHome=process.env.DSH_HOME||path.join(os.homedir(),'.dsh')}={}) {
   dshHome=path.resolve(dshHome);backup=path.resolve(backup);
