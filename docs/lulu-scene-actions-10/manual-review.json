@@ -1,0 +1,139 @@
+{
+  "passed": true,
+  "actions": [
+    {
+      "id": "cloudride",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "bubbletrip",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "skateboard",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "mooncradle",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "springbounce",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "rocketboots",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "leafboat",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "firefly",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "musicstep",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "starwish",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    }
+  ],
+  "armCloseupsReviewed": true,
+  "notes": "Reviewed actual decoded dark/light background sheets for all 10 scenes and 3 costumes, plus arm closeups. No new shoulder breaks, limb transparency or prop occlusion observed. Original intact character footage retained. This is scene choreography, not a newly articulated rig.",
+  "clipHashes": {
+    "watermelon-cloudride.webm": "fb8259e739f2f7d692d7fae190136d6026bd0a8a0ce743e4e135b72c6d8263b0",
+    "orange-cloudride.webm": "d0c936b5924332fccee79863c265f5594e13665ee165df4f9b51d9e811f0ed62",
+    "star-cloudride.webm": "b81852b1e869e24c34f5c0bbe7799c2f90947328781693fa42f3a1806a20f4f3",
+    "watermelon-skateboard.webm": "2ada9967618305a8dc89492865c20fe6e9afe21984da7eeccb1b5f9aabe57621",
+    "orange-skateboard.webm": "afd3809b3ea2513f9c958858c3d04d8c0569da20e1acd6d3f823002c1f7fb678",
+    "star-skateboard.webm": "fda2f2207bff6ac15efbcf1115ee4d0eef5150e9ce267c73029a32763fbf52f3",
+    "watermelon-springbounce.webm": "528344e153d6e32eebda1b92c2be2d03044b436514333f65a7f64b3468cebfd9",
+    "orange-springbounce.webm": "2ac1c47bb14545da4c6e2a99ed5299c723cd5c5258c8378eff7f13bacb5db2d3",
+    "star-springbounce.webm": "e19be9b8bdf1ceed6cde8788bcdbede15e04ffd30be8141861e3351ac5bbb09e",
+    "watermelon-bubbletrip.webm": "2f5069ee160843ade90aa10c3f87051f9147566f1594648d7e13098092460fe8",
+    "orange-bubbletrip.webm": "8a7409c097824bb4f6e804b9bfd7847c4826b2a69f3aac3581fab7899cf8818b",
+    "star-bubbletrip.webm": "cf3fd679f430b68b24a7feabd67e003ef0930ad6b018be6db1164272a25fef91",
+    "watermelon-mooncradle.webm": "ad7d1ed9f2a5dd66c8b845da34dd53e2da7b4abcc8fa27a90017186f56ea68f4",
+    "orange-mooncradle.webm": "29ec6aff6f5bee8d5c5013cb940017d348a58a68e873e333ec856e6b8201efbc",
+    "star-mooncradle.webm": "2476413909d64433e418fe6ec533cd462d890707efb8ddc60145f30ac084a1b9",
+    "watermelon-rocketboots.webm": "c6fc58ba3f1eac51fd3147d402024cfff754268718dd8fdf4873fdcd255a507e",
+    "orange-rocketboots.webm": "39fc8b6f776e87e2d92647948b9ed2db668588f26b5b29c5a554e36d41a91c04",
+    "star-rocketboots.webm": "5af85a5460d600341500e8f2489c8e11c419da313de30c5f5e95a07ad5de5568",
+    "watermelon-leafboat.webm": "11020b75351b5795348c035de85497baedd6b1c02983cabe6cabc08fd5c89e9e",
+    "orange-leafboat.webm": "94d1470181cc7d138669f40336265868cd980f574ee747727fc81d1d75b03ecd",
+    "star-leafboat.webm": "241692ba66734464ac314c34798938e826e691fb02421bffb66c1a4be27a9aea",
+    "watermelon-firefly.webm": "3b9133be92e227e6715ae9bb1e9e826c221834ebca260020d901f95a723b9479",
+    "orange-firefly.webm": "1c5175b2462fe6377e364fa8a2e0d96584120b113a2a7f98d525d595f2dc1e51",
+    "star-firefly.webm": "e3eaac7184a1eeea0b832c8a269c931bc5c36b96032c97b06fe1433fef341d7b",
+    "watermelon-musicstep.webm": "5edef26b9fcacd290eb9a871027037964b2ee56de7f06f82e65542b1c550ab94",
+    "orange-musicstep.webm": "67e3d65aa8b1211041efdcee1003146dbf29c1a7cc3caf8a8e615ff67ecf23a1",
+    "star-musicstep.webm": "ab5123fc53a91ddf516d974bbc0598a1052a25792e9000463846ac36d182f772",
+    "watermelon-starwish.webm": "80d42f052ecd21d09c63c38adf185ac13ebc27adee4fb4e29e921b63b948beb9",
+    "orange-starwish.webm": "fa88774a83c8fba4a91543dc5155b5f30786d23fa4db2800eea05ff2a55310a9",
+    "star-starwish.webm": "31385876a454f9ce4759e03768372231bb9656d9126c1fc05b592cd2d188bd60"
+  }
+}

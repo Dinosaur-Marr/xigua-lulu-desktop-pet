@@ -240,283 +240,183 @@
     "category": "互动"
   },
   {
-    "id": "salute",
-    "name": "认真敬礼",
-    "category": "互动",
-    "description": "抬手敬礼，挺胸停顿，再轻轻放下。",
-    "new": true
+    "id": "cloudride",
+    "name": "乘云兜风",
+    "description": "踩上绵软小云，随风绕一个小弧线，再稳稳落下。",
+    "sourceAction": "idle",
+    "alias": "西瓜噜-特色-乘云兜风",
+    "new": true,
+    "category": "特色场景"
   },
   {
-    "id": "highfive",
-    "name": "隔空击掌",
-    "category": "互动",
-    "description": "伸出小手等你击掌，接触时轻轻回弹。",
-    "new": true
+    "id": "bubbletrip",
+    "name": "泡泡旅行",
+    "description": "被一颗大泡泡轻轻托起，左右好奇张望，泡泡散成小水珠。",
+    "sourceAction": "look",
+    "alias": "西瓜噜-特色-泡泡旅行",
+    "new": true,
+    "category": "特色场景"
   },
   {
-    "id": "peekaboo",
-    "name": "捉迷藏探头",
-    "category": "互动",
-    "description": "躲到两只手后面，再左右探头逗你笑。",
-    "new": true
+    "id": "skateboard",
+    "name": "滑板兜一圈",
+    "description": "踩着西瓜滑板左右巡游，身体跟随节奏摆动，回到原位。",
+    "sourceAction": "sway",
+    "alias": "西瓜噜-特色-滑板兜一圈",
+    "new": true,
+    "category": "特色场景"
   },
   {
-    "id": "hush",
-    "name": "轻声嘘嘘",
-    "category": "互动",
-    "description": "小手靠近嘴边，眯眼提醒保持安静。",
-    "new": true
+    "id": "mooncradle",
+    "name": "月亮摇篮",
+    "description": "乘着月牙摇篮轻轻荡两回，闭眼露出满足的笑。",
+    "sourceAction": "shy",
+    "alias": "西瓜噜-特色-月亮摇篮",
+    "new": true,
+    "category": "特色场景"
   },
   {
-    "id": "gift",
-    "name": "送你小礼物",
-    "category": "互动",
-    "description": "双手捧出礼盒，往前递一递，再收好。",
-    "new": true
+    "id": "springbounce",
+    "name": "弹簧垫蹦高",
+    "description": "弹簧垫蓄力、起跳、落地压缩，两次弹跳后稳稳站住。",
+    "sourceAction": "giggle",
+    "alias": "西瓜噜-特色-弹簧垫蹦高",
+    "new": true,
+    "category": "特色场景"
   },
   {
-    "id": "bellyrub",
-    "name": "吃饱揉肚子",
-    "category": "心情",
-    "description": "轮流揉揉圆肚子，满足地眯眼。",
-    "new": true
+    "id": "rocketboots",
+    "name": "火箭靴启航",
+    "description": "脚底小推进器点火，升空短暂停留，减速落地。",
+    "sourceAction": "look",
+    "alias": "西瓜噜-特色-火箭靴启航",
+    "new": true,
+    "category": "特色场景"
   },
   {
-    "id": "selfhug",
-    "name": "抱抱自己",
-    "category": "心情",
-    "description": "双手抱住自己，轻轻挤一挤再松开。",
-    "new": true
+    "id": "leafboat",
+    "name": "落叶小船",
+    "description": "站上弯弯的秋叶船，在小小波纹中悠悠漂过。",
+    "sourceAction": "sway",
+    "alias": "西瓜噜-特色-落叶小船",
+    "new": true,
+    "category": "特色场景"
   },
   {
-    "id": "sob",
-    "name": "委屈擦眼泪",
-    "category": "心情",
-    "description": "垂头吸鼻子，抬手擦去小泪珠。",
-    "new": true
+    "id": "firefly",
+    "name": "追着萤火虫看",
+    "description": "好奇地左右探看萤火虫，最后萤火虫在头顶聚成一圈。",
+    "sourceAction": "look",
+    "alias": "西瓜噜-特色-追着萤火虫看",
+    "new": true,
+    "category": "特色场景"
   },
   {
-    "id": "relief",
-    "name": "松口气拍拍胸",
-    "category": "心情",
-    "description": "先紧张绷住，呼气后拍拍胸口。",
-    "new": true
+    "id": "musicstep",
+    "name": "节拍小舞台",
+    "description": "灯光音符跟随节拍弹起，角色踏着小舞台左右轻摆。",
+    "sourceAction": "sway",
+    "alias": "西瓜噜-特色-节拍小舞台",
+    "new": true,
+    "category": "特色场景"
   },
   {
-    "id": "eureka",
-    "name": "灵光一现",
-    "category": "心情",
-    "description": "低头想一想，看到灯泡亮起后举手示意。",
-    "new": true
+    "id": "starwish",
+    "name": "对流星许愿",
+    "description": "流星划过时闭眼低头许愿，抬头时两侧绽出小星星。",
+    "sourceAction": "bow",
+    "alias": "西瓜噜-特色-对流星许愿",
+    "new": true,
+    "category": "特色场景"
   },
   {
-    "id": "drink",
-    "name": "抱杯喝果汁",
-    "category": "美食",
-    "description": "捧起果汁杯凑近嘴边，喝两口再放下。",
-    "new": true
+    "id": "rainbowrain",
+    "name": "雨停啦见彩虹",
+    "description": "小雨落下时眨眼张望，雨停后彩虹慢慢展开，身体轻轻转向两侧。",
+    "sourceAction": "idle",
+    "alias": "西瓜噜-故事-雨停啦见彩虹",
+    "new": true,
+    "category": "表情故事"
   },
   {
-    "id": "melonbite",
-    "name": "啃一口西瓜",
-    "category": "美食",
-    "description": "托起西瓜咬一口，鼓动嘴巴开心咀嚼。",
-    "new": true
+    "id": "snowchill",
+    "name": "雪花亲亲脸",
+    "description": "雪花飘近，噜噜眯眼缩一缩，雪花旋转着散开，最后放松站好。",
+    "sourceAction": "idle",
+    "alias": "西瓜噜-故事-雪花亲亲脸",
+    "new": true,
+    "category": "表情故事"
   },
   {
-    "id": "icecream",
-    "name": "舔舔冰淇淋",
-    "category": "美食",
-    "description": "举起甜筒舔两下，冷得眯眼又笑开。",
-    "new": true
+    "id": "alarmwake",
+    "name": "小闹钟叫醒我",
+    "description": "先打瞌睡，闹钟响起的瞬间睁大眼睛、张嘴惊醒，再恢复精神。",
+    "sourceAction": "idle",
+    "alias": "西瓜噜-故事-小闹钟叫醒我",
+    "new": true,
+    "category": "表情故事"
   },
   {
-    "id": "cookie",
-    "name": "咔嚓吃饼干",
-    "category": "美食",
-    "description": "举起饼干咬一口，轻轻嚼完。",
-    "new": true
+    "id": "chickhatch",
+    "name": "咦小鸡出壳了",
+    "description": "蛋壳咔嚓裂开，噜噜后仰睁大眼；小鸡探头、跳一下，噜噜放松微笑。",
+    "sourceAction": "idle",
+    "alias": "西瓜噜-故事-咦小鸡出壳了",
+    "new": true,
+    "category": "表情故事"
   },
   {
-    "id": "flower",
-    "name": "闻闻小花",
-    "category": "美食",
-    "description": "凑近花朵轻轻闻，闭眼露出满足表情。",
-    "new": true
+    "id": "popcornparty",
+    "name": "爆米花蹦蹦派对",
+    "description": "小玉米锅接连爆出爆米花，噜噜跟着一抖一笑，最后锅盖轻轻合上。",
+    "sourceAction": "idle",
+    "alias": "西瓜噜-故事-爆米花蹦蹦派对",
+    "new": true,
+    "category": "表情故事"
   },
   {
-    "id": "readbook",
-    "name": "翻书认真读",
-    "category": "专注",
-    "description": "捧书低头看，视线随翻页移动。",
-    "new": true
+    "id": "papercrane",
+    "name": "纸鹤带来一封信",
+    "description": "纸鹤从左边飞过，噜噜转头张望；纸鹤留下小信封，从另一侧飞走。",
+    "sourceAction": "idle",
+    "alias": "西瓜噜-故事-纸鹤带来一封信",
+    "new": true,
+    "category": "表情故事"
   },
   {
-    "id": "notebook",
-    "name": "记下小灵感",
-    "category": "专注",
-    "description": "一手托本，一手写两笔，再满意点头。",
-    "new": true
+    "id": "flowerbow",
+    "name": "一鞠躬花就开",
+    "description": "噜噜闭眼鞠躬，两侧的小芽依次开花，抬头时花朵轻轻点头回应。",
+    "sourceAction": "idle",
+    "alias": "西瓜噜-故事-一鞠躬花就开",
+    "new": true,
+    "category": "表情故事"
   },
   {
-    "id": "magnify",
-    "name": "放大镜找线索",
-    "category": "专注",
-    "description": "拿放大镜左右检查，发现线索后睁大眼。",
-    "new": true
+    "id": "thundercloud",
+    "name": "雷声吓一小跳",
+    "description": "小乌云先鼓起来，闪电亮起时身体后仰、眼睛睁大，乌云散去后放松。",
+    "sourceAction": "idle",
+    "alias": "西瓜噜-故事-雷声吓一小跳",
+    "new": true,
+    "category": "表情故事"
   },
   {
-    "id": "camera",
-    "name": "给你拍张照",
-    "category": "专注",
-    "description": "举起相机瞄准，按快门后放下查看。",
-    "new": true
+    "id": "minigarden",
+    "name": "误入迷你蘑菇园",
+    "description": "蘑菇慢慢长高，噜噜变成小小一只，好奇歪头观察，再恢复原来的大小。",
+    "sourceAction": "idle",
+    "alias": "西瓜噜-故事-误入迷你蘑菇园",
+    "new": true,
+    "category": "表情故事"
   },
   {
-    "id": "binoculars",
-    "name": "望远镜看远方",
-    "category": "专注",
-    "description": "举起望远镜，慢慢向两边观察。",
-    "new": true
-  },
-  {
-    "id": "fan",
-    "name": "热得扇扇风",
-    "category": "日常",
-    "description": "拿小扇子给自己扇风，身体渐渐放松。",
-    "new": true
-  },
-  {
-    "id": "umbrella",
-    "name": "撑伞躲小雨",
-    "category": "日常",
-    "description": "撑起小伞，看着落雨，最后收伞。",
-    "new": true
-  },
-  {
-    "id": "watering",
-    "name": "给小苗浇水",
-    "category": "日常",
-    "description": "拿壶向小盆栽倾斜，水珠落下后小苗舒展。",
-    "new": true
-  },
-  {
-    "id": "sweep",
-    "name": "扫扫小纸屑",
-    "category": "日常",
-    "description": "握住小扫帚来回扫，把纸屑聚到一起。",
-    "new": true
-  },
-  {
-    "id": "brush",
-    "name": "认真刷刷牙",
-    "category": "日常",
-    "description": "小手拿牙刷来回刷，眯眼露出干净笑容。",
-    "new": true
-  },
-  {
-    "id": "tambourine",
-    "name": "拍拍铃鼓",
-    "category": "音乐",
-    "description": "一手托铃鼓，一手按节拍拍打。",
-    "new": true
-  },
-  {
-    "id": "maracas",
-    "name": "摇摇沙锤",
-    "category": "音乐",
-    "description": "左右沙锤轮流摇，头跟着节拍摆动。",
-    "new": true
-  },
-  {
-    "id": "drum",
-    "name": "咚咚敲小鼓",
-    "category": "音乐",
-    "description": "两只手交替敲鼓，身体跟着小幅起伏。",
-    "new": true
-  },
-  {
-    "id": "conduct",
-    "name": "小小指挥家",
-    "category": "音乐",
-    "description": "抬起指挥棒，画出上下左右的节拍。",
-    "new": true
-  },
-  {
-    "id": "harmonica",
-    "name": "吹一段口琴",
-    "category": "音乐",
-    "description": "把口琴放到嘴边，闭眼吹出短短旋律。",
-    "new": true
-  },
-  {
-    "id": "balloon",
-    "name": "牵住小气球",
-    "category": "玩耍",
-    "description": "抓住气球绳，看它飘动，再把它拉回来。",
-    "new": true
-  },
-  {
-    "id": "bubbles",
-    "name": "吹出小泡泡",
-    "category": "玩耍",
-    "description": "举起泡泡棒，鼓嘴吹气，目送泡泡飘走。",
-    "new": true
-  },
-  {
-    "id": "butterfly",
-    "name": "追看小蝴蝶",
-    "category": "玩耍",
-    "description": "眼睛追着蝴蝶，伸手让它停一会儿。",
-    "new": true
-  },
-  {
-    "id": "catchstar",
-    "name": "接住小星星",
-    "category": "玩耍",
-    "description": "抬头看星星落下，双手接住再举起展示。",
-    "new": true
-  },
-  {
-    "id": "ball",
-    "name": "拍两下皮球",
-    "category": "玩耍",
-    "description": "小手随皮球落下回弹，最后抱住皮球。",
-    "new": true
-  },
-  {
-    "id": "boxing",
-    "name": "左右练拳",
-    "category": "运动",
-    "description": "左右交替出拳，有收拳和身体重心回摆。",
-    "new": true
-  },
-  {
-    "id": "dumbbell",
-    "name": "举举小哑铃",
-    "category": "运动",
-    "description": "双手举起小哑铃，用力时眯眼，放下时呼气。",
-    "new": true
-  },
-  {
-    "id": "sidebend",
-    "name": "左右压压腰",
-    "category": "运动",
-    "description": "一手上举，左右各做一次侧腰伸展。",
-    "new": true
-  },
-  {
-    "id": "tiptoe",
-    "name": "踮脚够星星",
-    "category": "运动",
-    "description": "伸手向上够星星，踮起后慢慢放下。",
-    "new": true
-  },
-  {
-    "id": "skater",
-    "name": "左右滑步练习",
-    "category": "运动",
-    "description": "交替抬脚向侧边伸出，手臂反向维持平衡。",
-    "new": true
+    "id": "treasurechest",
+    "name": "宝箱里藏着快乐",
+    "description": "宝箱轻轻晃动，盖子打开飞出金币与星星，噜噜开心笑抖，最后宝箱合上。",
+    "sourceAction": "idle",
+    "alias": "西瓜噜-故事-宝箱里藏着快乐",
+    "new": true,
+    "category": "表情故事"
   }
 ]

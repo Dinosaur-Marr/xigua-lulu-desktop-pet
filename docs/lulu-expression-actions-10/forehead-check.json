@@ -1,0 +1,6 @@
+{
+  "passed": true,
+  "poseChecks": 1200,
+  "foreheadPixelsPerPose": 58,
+  "rule": "Forehead RGB and alpha remain identical to the neutral character before continuous body movement."
+}

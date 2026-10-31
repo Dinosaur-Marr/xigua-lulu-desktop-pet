@@ -1,0 +1,77 @@
+{
+  "passed": true,
+  "actions": [
+    {
+      "id": "rainbowrain",
+      "newFaceControls": true,
+      "newBodyMotion": true,
+      "animatedSourceFramesUsed": 0,
+      "neutralSourceFramesUsed": 1
+    },
+    {
+      "id": "snowchill",
+      "newFaceControls": true,
+      "newBodyMotion": true,
+      "animatedSourceFramesUsed": 0,
+      "neutralSourceFramesUsed": 1
+    },
+    {
+      "id": "alarmwake",
+      "newFaceControls": true,
+      "newBodyMotion": true,
+      "animatedSourceFramesUsed": 0,
+      "neutralSourceFramesUsed": 1
+    },
+    {
+      "id": "chickhatch",
+      "newFaceControls": true,
+      "newBodyMotion": true,
+      "animatedSourceFramesUsed": 0,
+      "neutralSourceFramesUsed": 1
+    },
+    {
+      "id": "popcornparty",
+      "newFaceControls": true,
+      "newBodyMotion": true,
+      "animatedSourceFramesUsed": 0,
+      "neutralSourceFramesUsed": 1
+    },
+    {
+      "id": "papercrane",
+      "newFaceControls": true,
+      "newBodyMotion": true,
+      "animatedSourceFramesUsed": 0,
+      "neutralSourceFramesUsed": 1
+    },
+    {
+      "id": "flowerbow",
+      "newFaceControls": true,
+      "newBodyMotion": true,
+      "animatedSourceFramesUsed": 0,
+      "neutralSourceFramesUsed": 1
+    },
+    {
+      "id": "thundercloud",
+      "newFaceControls": true,
+      "newBodyMotion": true,
+      "animatedSourceFramesUsed": 0,
+      "neutralSourceFramesUsed": 1
+    },
+    {
+      "id": "minigarden",
+      "newFaceControls": true,
+      "newBodyMotion": true,
+      "animatedSourceFramesUsed": 0,
+      "neutralSourceFramesUsed": 1
+    },
+    {
+      "id": "treasurechest",
+      "newFaceControls": true,
+      "newBodyMotion": true,
+      "animatedSourceFramesUsed": 0,
+      "neutralSourceFramesUsed": 1
+    }
+  ],
+  "uniqueTimelines": 10,
+  "eyebrowsRendered": false
+}

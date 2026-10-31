@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "aliasCases": 411,
+  "costumes": 3,
+  "newActions": 10,
+  "wardrobeRoutes": 6,
+  "checks": [
+    "All aliases route to the matching costume",
+    "Wardrobe persistence and interruption",
+    "Other pets unchanged",
+    "Busy/menu/chat guards preserved"
+  ],
+  "runtimeHash": "cdabc99997bc4adb278eeeff302b3f3da411d9dda680451d408e59776a77f5c7"
+}

@@ -1,0 +1,142 @@
+{
+  "passed": true,
+  "reviewedAt": "2026-10-31T10:33:38.943Z",
+  "actions": [
+    {
+      "id": "rainbowrain",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "snowchill",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "alarmwake",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "chickhatch",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "popcornparty",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "papercrane",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "flowerbow",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "thundercloud",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "minigarden",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    },
+    {
+      "id": "treasurechest",
+      "decodedSamplesPerCostume": 12,
+      "costumes": [
+        "watermelon",
+        "orange",
+        "star"
+      ],
+      "fullBodyReviewed": true
+    }
+  ],
+  "armCloseupsReviewed": true,
+  "noEyebrows": true,
+  "newFaceAndBodyPerformance": true,
+  "method": "Visual inspection of ten decoded full-body storyboards (360 sampled frames), two face montages and two arm montages. Automated full-frame opacity, canvas boundary and endpoint checks cover all 3600 decoded frames. Continuous real-time playback was not visually reviewed.",
+  "clipHashes": {
+    "watermelon-rainbowrain.webm": "2c557e04455e93849d8ced2da9fcd97136036ff656eae2e35e81f7cdb7a04797",
+    "orange-rainbowrain.webm": "714fd23d430e8c6d073df51ffad9e73e71159da83d52cb4e2122aa227d85c5e6",
+    "star-rainbowrain.webm": "4bd1ab8bc579740059019406a3c7ad6a988a8ba0072319d16ede88503b4cc6ba",
+    "watermelon-snowchill.webm": "a140394b8147f39fe2bc75f0b3fa60e69dc1655bca7044a09e4e3890006c02f7",
+    "orange-snowchill.webm": "4c961b87ead6960169399be8723cf0a397ecb8029d6791ff0f7db3b89588c9c3",
+    "star-snowchill.webm": "15d64a837fc2cc549b68854f5c3483e2b9f700b01a2782003e98af9a4fbc4c00",
+    "watermelon-alarmwake.webm": "ec52c2ef9fcd75e688863350f0bb869e7c411cb9ed6fa165b7198391b69a2e2c",
+    "orange-alarmwake.webm": "b4634b0c9c10562fa48456c477613217b57988122baf9648ea6803d3d6216bea",
+    "star-alarmwake.webm": "68372d0f421bd3050b22d3a1d2cc89ce268e6203465740aae81e812a8ca0e2e9",
+    "watermelon-chickhatch.webm": "84c2a983b1ccae26d6aacb956e2b8a28f9b85d165ddb6be01170a1aa0a971f63",
+    "orange-chickhatch.webm": "08728fcd610a2dc709517fb256b587bda0bf7cd9ada5e760490c27a47c293822",
+    "star-chickhatch.webm": "4ef13262986fb28edc797e1fb0372ee75c2f858a5c001eab79e7b230b8da4b58",
+    "watermelon-popcornparty.webm": "87e9814b11dcbc9224d2870733542a9a0591cf316f43d1d6908e593019937d7b",
+    "orange-popcornparty.webm": "9fb7e22eb7aa472dbc139bdbdd7cf70626d83cefeb453e9d2f75474767de7070",
+    "star-popcornparty.webm": "fdfe8a05ef1a42bebd2a6654c759e3b6f8e2d312367881b34992f4a48cae656b",
+    "watermelon-papercrane.webm": "0e22b00b37af5cd5aac1f29417a0ac6b57da204eb103824927d1a954cdc9bcfc",
+    "orange-papercrane.webm": "1b9c307ccaf205fcb9ff60da4130df4bb33540fd23ebd026aa0bcfd60223dec8",
+    "star-papercrane.webm": "939bd53d02e766775709882df141f8421b223596a0205db6e578d739753bde96",
+    "watermelon-flowerbow.webm": "0069da8a1730b55a6db59132d2098672bf556365f12e6af965a4c04a999f3e55",
+    "orange-flowerbow.webm": "73fa8708af15378c7d9fc19e118e39b7e0cd7bf6eb207ad028dbdd75c0c30aa5",
+    "star-flowerbow.webm": "54a3a246800cd5b9da5284a369baa8cd8dbbf219b6ffc3e4167fe4983f93f72d",
+    "watermelon-thundercloud.webm": "45eb6c544179b02d4c51a1164b5647cbc763548047479f05f4cc2de247182ac2",
+    "orange-thundercloud.webm": "d950338452ceda3e289398352976126608d111e3370ab56671f90f4ca1b3bb79",
+    "star-thundercloud.webm": "09076a09f1c7ee00322bfe9bdec08e39e01c1a064dd2f903f5e9ce7761f8aad1",
+    "watermelon-minigarden.webm": "1ba04c3d2fa67c20190dec1b16a68862c488e1f04386993b383db173974d9496",
+    "orange-minigarden.webm": "e180ad77de3d5b46fe78b477e57fb14fad5560f098c98417800b0711370df90d",
+    "star-minigarden.webm": "801461f2e701fc25fe329c96fab7b374dc2fc9ec402b27d0b74351e6772a8d54",
+    "watermelon-treasurechest.webm": "2ea0f874375e777df3aeec5f1f6e4851d40f524840bb6cfacb45c29587751206",
+    "orange-treasurechest.webm": "03b9aa0125346e48efb75b6c61fc5c5c2da7537a22e0cd2a05a5ab8d0febba0f",
+    "star-treasurechest.webm": "be277c4839fa0fef339a25ec6cfc3fdf2744a52bea23bfbe85610ac345e00235"
+  }
+}

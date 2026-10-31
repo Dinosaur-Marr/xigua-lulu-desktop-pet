@@ -4,23 +4,25 @@
 
 ![西瓜噜噜](docs/character.png)
 
-**80 组独立动作 × 3 款裤子 · 6 个换装方向 · 27 张配图 · 可备份恢复**
+**60 组独立动作 × 3 款裤子 · 6 个换装方向 · 27 张配图 · 可备份恢复**
 
-最新版 **v1.2.0**：新增 40 组带表情与道具的日常动作，包括敬礼、捉迷藏、喝果汁、吃西瓜、看书、拍照、吹泡泡、玩球和举哑铃。共 80 组日常动作、240 个服装版本，加 6 个换装片段，总计 246 个动画素材。
+最新版 **v1.2.0（60 组替换版）**：在 v1.1 的 40 组基础动作上，加入 10 组完整角色场景动作和 10 组新表情故事。噜噜没有眉毛；新增表情通过眼睛、嘴型及连续身体运动表达。此前有手臂问题的 80 组版已被本版替换，旧动作不再出现在新版菜单中。
 
-三款裤子：西瓜裤、橙色裤、蓝底黄星星裤。桌面端空闲约每 3～5 分钟轮换；右键 → 动作 → 换装，可指定款式。换装有完整脱裤、抬脚、穿裤动作，并修复颈肩接缝与白色打底裤透过手臂的问题。网页端保留原有西瓜裤动作，自动换装仅支持桌面端。
+[观看新表情故事](docs/new-expressions-preview.mp4) · [观看特色场景](docs/scene-actions-preview.mp4)
+
+西瓜裤、橙色裤、蓝底黄星星裤。桌面端空闲约每 3～5 分钟轮换；右键 → 动作 → 换装，可指定款式。换装有完整脱裤、抬脚、穿裤动作，并修复颈肩接缝与白色打底裤透过手臂的问题。网页端保留原有西瓜裤动作，自动换装仅支持桌面端。
 
 [观看三款换装预览](docs/wardrobe-preview.mp4)
 
 ![星星裤动作](docs/wardrobe.jpg)
 
-[观看新增 40 组动作预览](docs/new-actions-preview.mp4) · [原有动作预览](docs/preview.mp4) · [给 DeepSeek 的安装说明](INSTALL_FOR_DEEPSEEK.md) · [动作清单](config/actions.json)
+[观看动作预览](docs/preview.mp4) · [给 DeepSeek 的安装说明](INSTALL_FOR_DEEPSEEK.md) · [动作清单](config/actions.json)
 
 ## 给 DeepSeek 发送什么
 
 把下面这段话发送给 **DeepSeek Harness 桌面版的智能体**（需要能操作本机文件和终端）：
 
-> 请帮我安装“西瓜噜噜桌宠”：https://github.com/Dinosaur-Marr/xigua-lulu-desktop-pet 。先阅读仓库的 README.md 和 INSTALL_FOR_DEEPSEEK.md，下载到一个新的独立目录，校验素材后运行安装脚本。识别我实际使用的 DSH_HOME 和 profile，安装前保留备份，不要删除、移动或清理我的任何工作空间。保留我的模型设置、聊天记忆和桌宠大小位置。完成后告诉我备份路径，并提醒我保存任务后重启 DeepSeek Harness。
+> 请帮我安装或更新“西瓜噜噜桌宠”：https://github.com/Dinosaur-Marr/xigua-lulu-desktop-pet 。先阅读仓库的 README.md 和 INSTALL_FOR_DEEPSEEK.md，下载到一个新的独立目录，校验素材后运行安装脚本。识别我实际使用的 DSH_HOME 和 profile，安装前保留备份，不要删除、移动或清理我的任何工作空间。保留我的模型设置、聊天记忆和桌宠大小位置。完成后告诉我备份路径，并提醒我保存任务后重启 DeepSeek Harness。
 
 普通 DeepSeek 网页聊天不能直接安装本机插件；这段话需要发送给具备本机操作能力的 Harness。
 
@@ -53,8 +55,8 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\install.ps1 -DryRun
 
 ## 具体改动
 
-- 安装 240 个常规动作素材（80 组动作 × 3 款裤子），以及 6 段各 10 秒的换装素材。常规动作每个 5 秒；均为 24 帧/秒、640×360 透明 WebM。
-- 通过 167 个旧/新动作别名兼容原有触发入口；**167 是入口别名数，不代表独立动作数**。
+- 安装 180 个常规动作素材（60 组动作 × 3 款裤子），以及 6 段各 10 秒的换装素材。常规动作每个 5 秒；均为 24 帧/秒、640×360 透明 WebM。
+- 通过 147 个旧/新动作别名兼容原有触发入口；**147 不代表 147 个独立动作**。
 - 替换 27 张聊天/碎碎念配图为西瓜噜噜；更新名字、人设和动作分配。
 - 修正桌面端和网页端的行走方向，保留裤子与腿一起运动的步态。
 - 保留已有模型选择、聊天记忆、桌宠大小、位置和显示方式。首次安装默认关闭自动碎碎念和余额检查，可在设置里自行开启。
@@ -73,7 +75,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\install.ps1 -Restore "安�
 
 ## 二次创作
 
-安装无需生成视频。想修改动作，可编辑 `animation-src/work/` 中的 Python 动作参数，输入图层已包含在 `animation-src/` 内。
+安装无需生成视频。想修改动作，可编辑 `animation-src/work/` 中的 Python 动作参数，输入图层已包含在 `animation-src/` 内。新增动作可用 `animation-src/render_extra.py` 渲染，例如 `python animation-src/render_extra.py --action alarmwake --costume star --output custom/alarmwake.webm`。前 10 组使用完整基础动画配合场景；后 10 组从中性静帧设计新的表情和连续身体运动。
 
 ```powershell
 python -m pip install -r animation-src/requirements.txt
@@ -85,16 +87,12 @@ python animation-src/render.py --action change --from-costume watermelon --costu
 
 安装器测试：`node --test tests/install.test.mjs`。包校验：`node install.mjs --verify`。
 
-本次新增 40 组动作并配齐三款裤子的版本；换装和各款关键画面已经检查，检查报告见 docs/。原皮无裤版本仅做过概念预览，未作为可用皮肤发布。
+本次发布沿用 v1.1 的三款裤子与六个换装方向，新增 20 组动作；换装和各款关键画面已经检查，检查报告见 docs/。原皮无裤版本仅做过概念预览，未作为可用皮肤发布。
+
+新增 60 段视频共 7,200 帧完成透明度、画布边缘和首尾检查；每组每款服装抽查 12 个时刻，并检查脸部和手臂近景。检查覆盖与限制记录在 `docs/lulu-scene-actions-10/`、`docs/lulu-expression-actions-10/`。
 
 基础西瓜裤的[边缘检查报告](docs/edge-audit.json)覆盖 4,800 帧。像素检查不能保证每个动作都符合所有人的审美；目前是二维图层动画，大幅转身和复杂关节动作仍有限制。
 
 ## 来源与许可
 
 基于 [PC2005-cloud/dsh-pet](https://github.com/PC2005-cloud/dsh-pet) 运行，感谢原作者提供桌宠框架。代码使用 MIT；素材来源与权利范围见 [NOTICE.md](NOTICE.md)。本项目不附带聊天记录、API 密钥、个人配置或本机工作空间。
-
-本次修复新增动作的手臂虚影、肩部断接和边缘尖角，并调整握持道具的位置。新增 120 段动画共 14,400 帧完成解码检查；每组新增动作复核 12 个时间点，原有 40 组动作也完成抽帧复核。
-
-## 新增动作预览
-
-打开 `preview.html` 可筛选全部 80 组动作并切换三款裤子；桌宠右键菜单的“西瓜噜新增”分组提供点播，新动作也加入随机播放、点击回应与工作状态。新增动作的逐帧检查见 `docs/new-actions-audit.json`。

@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "actions": 60,
+  "costumes": 3,
+  "regularClips": 180,
+  "wardrobeClips": 6,
+  "aliases": 147,
+  "installedAssetHashesMatched": 273,
+  "testsPassed": 8,
+  "testsSkipped": 1,
+  "skipReason": "Environment does not permit creating directory junctions",
+  "newExpressionSourceRenderVerified": "alarmwake / star / 120 frames",
+  "privateConfigurationIncluded": false
+}

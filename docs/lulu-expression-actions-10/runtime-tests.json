@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "aliasCases": 441,
+  "costumes": 3,
+  "newActions": 10,
+  "wardrobeRoutes": 6,
+  "persistence": true,
+  "interruption": true,
+  "menuGuards": true,
+  "runtimeHash": "0b1095c7b5862ec01d56c4cb8924406762af279e04a9474041fe99bccce585f6"
+}

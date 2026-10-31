@@ -9,12 +9,7 @@ parser.add_argument('--output',required=True)
 parser.add_argument('--costume',choices=['watermelon','orange','star'],default='watermelon')
 parser.add_argument('--from-costume',choices=['watermelon','orange','star'],default='watermelon')
 args=parser.parse_args()
-new_ids=['salute', 'highfive', 'peekaboo', 'hush', 'gift', 'bellyrub', 'selfhug', 'sob', 'relief', 'eureka', 'drink', 'melonbite', 'icecream', 'cookie', 'flower', 'readbook', 'notebook', 'magnify', 'camera', 'binoculars', 'fan', 'umbrella', 'watering', 'sweep', 'brush', 'tambourine', 'maracas', 'drum', 'conduct', 'harmonica', 'balloon', 'bubbles', 'butterfly', 'catchstar', 'ball', 'boxing', 'dumbbell', 'sidebend', 'tiptoe', 'skater']
-if args.action in new_ids:
-    import build_lulu_80 as module
-    b=module.b
-    frame=lambda kind,t:module.frame(kind,t,args.costume)
-elif args.costume!='watermelon' or args.action=='change':
+if args.costume!='watermelon' or args.action=='change':
     import build_lulu_stars as module
     b=module.w.b
     if args.action=='change':
@@ -29,7 +24,7 @@ else:
     import refine_lulu_arms as module
     b=module.b
     frame=b.frame if args.action in b.NEW else b.old.frame
-if args.action!='change' and args.action not in b.LABELS and args.action not in new_ids:parser.error('Unknown action: '+args.action)
+if args.action!='change' and args.action not in b.LABELS:parser.error('Unknown action: '+args.action)
 target=Path(args.output).resolve();target.parent.mkdir(parents=True,exist_ok=True)
 p=subprocess.Popen([str(b.FF),'-y','-f','rawvideo','-pix_fmt','rgba','-s','640x360','-r','24','-i','-','-an','-c:v','libvpx-vp9','-pix_fmt','yuva420p','-b:v','0','-crf','28','-auto-alt-ref','0',str(target)],stdin=subprocess.PIPE)
 try:

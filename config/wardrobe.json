@@ -344,323 +344,163 @@
     "name": "lulu-change-star-orange"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-salute.webm",
-    "name": "lulu-orange-salute"
+    "file": "assets/wardrobe/lulu-orange-cloudride.webm",
+    "name": "lulu-orange-cloudride"
   },
   {
-    "file": "assets/wardrobe/lulu-star-salute.webm",
-    "name": "lulu-star-salute"
+    "file": "assets/wardrobe/lulu-star-cloudride.webm",
+    "name": "lulu-star-cloudride"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-highfive.webm",
-    "name": "lulu-orange-highfive"
+    "file": "assets/wardrobe/lulu-orange-skateboard.webm",
+    "name": "lulu-orange-skateboard"
   },
   {
-    "file": "assets/wardrobe/lulu-star-highfive.webm",
-    "name": "lulu-star-highfive"
+    "file": "assets/wardrobe/lulu-star-skateboard.webm",
+    "name": "lulu-star-skateboard"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-peekaboo.webm",
-    "name": "lulu-orange-peekaboo"
+    "file": "assets/wardrobe/lulu-orange-springbounce.webm",
+    "name": "lulu-orange-springbounce"
   },
   {
-    "file": "assets/wardrobe/lulu-star-peekaboo.webm",
-    "name": "lulu-star-peekaboo"
+    "file": "assets/wardrobe/lulu-star-springbounce.webm",
+    "name": "lulu-star-springbounce"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-hush.webm",
-    "name": "lulu-orange-hush"
+    "file": "assets/wardrobe/lulu-orange-bubbletrip.webm",
+    "name": "lulu-orange-bubbletrip"
   },
   {
-    "file": "assets/wardrobe/lulu-star-hush.webm",
-    "name": "lulu-star-hush"
+    "file": "assets/wardrobe/lulu-star-bubbletrip.webm",
+    "name": "lulu-star-bubbletrip"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-gift.webm",
-    "name": "lulu-orange-gift"
+    "file": "assets/wardrobe/lulu-orange-mooncradle.webm",
+    "name": "lulu-orange-mooncradle"
   },
   {
-    "file": "assets/wardrobe/lulu-star-gift.webm",
-    "name": "lulu-star-gift"
+    "file": "assets/wardrobe/lulu-star-mooncradle.webm",
+    "name": "lulu-star-mooncradle"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-bellyrub.webm",
-    "name": "lulu-orange-bellyrub"
+    "file": "assets/wardrobe/lulu-orange-rocketboots.webm",
+    "name": "lulu-orange-rocketboots"
   },
   {
-    "file": "assets/wardrobe/lulu-star-bellyrub.webm",
-    "name": "lulu-star-bellyrub"
+    "file": "assets/wardrobe/lulu-star-rocketboots.webm",
+    "name": "lulu-star-rocketboots"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-selfhug.webm",
-    "name": "lulu-orange-selfhug"
+    "file": "assets/wardrobe/lulu-orange-leafboat.webm",
+    "name": "lulu-orange-leafboat"
   },
   {
-    "file": "assets/wardrobe/lulu-star-selfhug.webm",
-    "name": "lulu-star-selfhug"
+    "file": "assets/wardrobe/lulu-star-leafboat.webm",
+    "name": "lulu-star-leafboat"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-sob.webm",
-    "name": "lulu-orange-sob"
+    "file": "assets/wardrobe/lulu-orange-firefly.webm",
+    "name": "lulu-orange-firefly"
   },
   {
-    "file": "assets/wardrobe/lulu-star-sob.webm",
-    "name": "lulu-star-sob"
+    "file": "assets/wardrobe/lulu-star-firefly.webm",
+    "name": "lulu-star-firefly"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-relief.webm",
-    "name": "lulu-orange-relief"
+    "file": "assets/wardrobe/lulu-orange-musicstep.webm",
+    "name": "lulu-orange-musicstep"
   },
   {
-    "file": "assets/wardrobe/lulu-star-relief.webm",
-    "name": "lulu-star-relief"
+    "file": "assets/wardrobe/lulu-star-musicstep.webm",
+    "name": "lulu-star-musicstep"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-eureka.webm",
-    "name": "lulu-orange-eureka"
+    "file": "assets/wardrobe/lulu-orange-starwish.webm",
+    "name": "lulu-orange-starwish"
   },
   {
-    "file": "assets/wardrobe/lulu-star-eureka.webm",
-    "name": "lulu-star-eureka"
+    "file": "assets/wardrobe/lulu-star-starwish.webm",
+    "name": "lulu-star-starwish"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-drink.webm",
-    "name": "lulu-orange-drink"
+    "file": "assets/wardrobe/lulu-orange-rainbowrain.webm",
+    "name": "lulu-orange-rainbowrain"
   },
   {
-    "file": "assets/wardrobe/lulu-star-drink.webm",
-    "name": "lulu-star-drink"
+    "file": "assets/wardrobe/lulu-star-rainbowrain.webm",
+    "name": "lulu-star-rainbowrain"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-melonbite.webm",
-    "name": "lulu-orange-melonbite"
+    "file": "assets/wardrobe/lulu-orange-snowchill.webm",
+    "name": "lulu-orange-snowchill"
   },
   {
-    "file": "assets/wardrobe/lulu-star-melonbite.webm",
-    "name": "lulu-star-melonbite"
+    "file": "assets/wardrobe/lulu-star-snowchill.webm",
+    "name": "lulu-star-snowchill"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-icecream.webm",
-    "name": "lulu-orange-icecream"
+    "file": "assets/wardrobe/lulu-orange-alarmwake.webm",
+    "name": "lulu-orange-alarmwake"
   },
   {
-    "file": "assets/wardrobe/lulu-star-icecream.webm",
-    "name": "lulu-star-icecream"
+    "file": "assets/wardrobe/lulu-star-alarmwake.webm",
+    "name": "lulu-star-alarmwake"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-cookie.webm",
-    "name": "lulu-orange-cookie"
+    "file": "assets/wardrobe/lulu-orange-chickhatch.webm",
+    "name": "lulu-orange-chickhatch"
   },
   {
-    "file": "assets/wardrobe/lulu-star-cookie.webm",
-    "name": "lulu-star-cookie"
+    "file": "assets/wardrobe/lulu-star-chickhatch.webm",
+    "name": "lulu-star-chickhatch"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-flower.webm",
-    "name": "lulu-orange-flower"
+    "file": "assets/wardrobe/lulu-orange-popcornparty.webm",
+    "name": "lulu-orange-popcornparty"
   },
   {
-    "file": "assets/wardrobe/lulu-star-flower.webm",
-    "name": "lulu-star-flower"
+    "file": "assets/wardrobe/lulu-star-popcornparty.webm",
+    "name": "lulu-star-popcornparty"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-readbook.webm",
-    "name": "lulu-orange-readbook"
+    "file": "assets/wardrobe/lulu-orange-papercrane.webm",
+    "name": "lulu-orange-papercrane"
   },
   {
-    "file": "assets/wardrobe/lulu-star-readbook.webm",
-    "name": "lulu-star-readbook"
+    "file": "assets/wardrobe/lulu-star-papercrane.webm",
+    "name": "lulu-star-papercrane"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-notebook.webm",
-    "name": "lulu-orange-notebook"
+    "file": "assets/wardrobe/lulu-orange-flowerbow.webm",
+    "name": "lulu-orange-flowerbow"
   },
   {
-    "file": "assets/wardrobe/lulu-star-notebook.webm",
-    "name": "lulu-star-notebook"
+    "file": "assets/wardrobe/lulu-star-flowerbow.webm",
+    "name": "lulu-star-flowerbow"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-magnify.webm",
-    "name": "lulu-orange-magnify"
+    "file": "assets/wardrobe/lulu-orange-thundercloud.webm",
+    "name": "lulu-orange-thundercloud"
   },
   {
-    "file": "assets/wardrobe/lulu-star-magnify.webm",
-    "name": "lulu-star-magnify"
+    "file": "assets/wardrobe/lulu-star-thundercloud.webm",
+    "name": "lulu-star-thundercloud"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-camera.webm",
-    "name": "lulu-orange-camera"
+    "file": "assets/wardrobe/lulu-orange-minigarden.webm",
+    "name": "lulu-orange-minigarden"
   },
   {
-    "file": "assets/wardrobe/lulu-star-camera.webm",
-    "name": "lulu-star-camera"
+    "file": "assets/wardrobe/lulu-star-minigarden.webm",
+    "name": "lulu-star-minigarden"
   },
   {
-    "file": "assets/wardrobe/lulu-orange-binoculars.webm",
-    "name": "lulu-orange-binoculars"
+    "file": "assets/wardrobe/lulu-orange-treasurechest.webm",
+    "name": "lulu-orange-treasurechest"
   },
   {
-    "file": "assets/wardrobe/lulu-star-binoculars.webm",
-    "name": "lulu-star-binoculars"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-fan.webm",
-    "name": "lulu-orange-fan"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-fan.webm",
-    "name": "lulu-star-fan"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-umbrella.webm",
-    "name": "lulu-orange-umbrella"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-umbrella.webm",
-    "name": "lulu-star-umbrella"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-watering.webm",
-    "name": "lulu-orange-watering"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-watering.webm",
-    "name": "lulu-star-watering"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-sweep.webm",
-    "name": "lulu-orange-sweep"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-sweep.webm",
-    "name": "lulu-star-sweep"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-brush.webm",
-    "name": "lulu-orange-brush"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-brush.webm",
-    "name": "lulu-star-brush"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-tambourine.webm",
-    "name": "lulu-orange-tambourine"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-tambourine.webm",
-    "name": "lulu-star-tambourine"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-maracas.webm",
-    "name": "lulu-orange-maracas"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-maracas.webm",
-    "name": "lulu-star-maracas"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-drum.webm",
-    "name": "lulu-orange-drum"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-drum.webm",
-    "name": "lulu-star-drum"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-conduct.webm",
-    "name": "lulu-orange-conduct"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-conduct.webm",
-    "name": "lulu-star-conduct"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-harmonica.webm",
-    "name": "lulu-orange-harmonica"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-harmonica.webm",
-    "name": "lulu-star-harmonica"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-balloon.webm",
-    "name": "lulu-orange-balloon"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-balloon.webm",
-    "name": "lulu-star-balloon"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-bubbles.webm",
-    "name": "lulu-orange-bubbles"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-bubbles.webm",
-    "name": "lulu-star-bubbles"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-butterfly.webm",
-    "name": "lulu-orange-butterfly"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-butterfly.webm",
-    "name": "lulu-star-butterfly"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-catchstar.webm",
-    "name": "lulu-orange-catchstar"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-catchstar.webm",
-    "name": "lulu-star-catchstar"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-ball.webm",
-    "name": "lulu-orange-ball"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-ball.webm",
-    "name": "lulu-star-ball"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-boxing.webm",
-    "name": "lulu-orange-boxing"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-boxing.webm",
-    "name": "lulu-star-boxing"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-dumbbell.webm",
-    "name": "lulu-orange-dumbbell"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-dumbbell.webm",
-    "name": "lulu-star-dumbbell"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-sidebend.webm",
-    "name": "lulu-orange-sidebend"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-sidebend.webm",
-    "name": "lulu-star-sidebend"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-tiptoe.webm",
-    "name": "lulu-orange-tiptoe"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-tiptoe.webm",
-    "name": "lulu-star-tiptoe"
-  },
-  {
-    "file": "assets/wardrobe/lulu-orange-skater.webm",
-    "name": "lulu-orange-skater"
-  },
-  {
-    "file": "assets/wardrobe/lulu-star-skater.webm",
-    "name": "lulu-star-skater"
+    "file": "assets/wardrobe/lulu-star-treasurechest.webm",
+    "name": "lulu-star-treasurechest"
   }
 ]
