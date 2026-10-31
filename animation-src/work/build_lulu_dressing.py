@@ -6,7 +6,7 @@ from PIL import Image,ImageDraw,ImageFilter
 ROOT=Path(__file__).resolve().parents[1];sys.path.insert(0,str(ROOT/'work'))
 import build_lulu_wardrobe as w
 b=w.b;rig=w.rig;OUT=w.OUT;CLIPS=w.CLIPS
-garment=rig.normalize(Image.open(OUT/'rig/garment-mask.png').convert('RGBA')).getchannel('R')
+garment=rig.normalize(w.maskim.convert('RGBA')).getchannel('R')
 # Imagegen provided the modest underlayer; only the garment region is used.
 gen=rig.normalize(Image.open(OUT/'rig/underlayer-generated.png').convert('RGBA'))
 under=Image.composite(gen,w.watermelon,garment)

@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "uniqueActions": 80,
+  "newActions": 40,
+  "costumes": 3,
+  "directedRoutes": 6,
+  "aliasesChecked": 501,
+  "newMenuCategories": 8,
+  "allNewActionsReachable": true,
+  "oldMovementSettingsPreserved": true,
+  "previewScriptSyntax": true,
+  "runtimeHash": "5f6c41b29541ddf6484be480f562d3c51a7b3a1229cc6e2ed40495c4b96ab105",
+  "realPetSpriteCases": 240,
+  "bothFacingDirectionsVerified": true,
+  "revisionUrlsVerified": true,
+  "otherPetUrlsPreserved": true
+}

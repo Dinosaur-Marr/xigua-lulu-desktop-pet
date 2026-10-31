@@ -43,4 +43,4 @@ p.workState='thinking';p.playIdle();assert.equal(api.snapshot(p).active,null);p.
 p.dragState.active=true;p.playIdle();assert.equal(api.snapshot(p).active,null);p.dragState.active=false;
 const other=new PetSprite('another pet');other.playIdle();now+=400000;other.playIdle();assert.equal(other.loaded,'待机呼吸休闲');
 const invalid=new PetSprite('西瓜噜','unknown');invalid.playIdle();assert.equal(api.snapshot(invalid).costume,'watermelon');
-console.log('Three-costume checks passed: six routes, 381 alias mappings, persistence, interruption and menu guards.');
+console.log('Three-costume checks passed: six routes, 501 alias mappings, persistence, interruption and menu guards.');

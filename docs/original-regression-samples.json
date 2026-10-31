@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "idle",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/idle.webm",
+    "sha256": "3e0f37a5d53c4b6035633f980036d8f7a1dde9ecdd4f0909a883adc925942656"
+  },
+  {
+    "id": "idle",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-idle.webm",
+    "sha256": "c47cda8a579da1ce255d7a9aaedaae12d4925b92807f22848316b67328eb2464"
+  },
+  {
+    "id": "idle",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-idle.webm",
+    "sha256": "9fd86671847065df646960ac7b9fbf71d04083d36414a60be616f46695f46d95"
+  },
+  {
+    "id": "idle",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/idle.webm",
+    "sha256": "3e0f37a5d53c4b6035633f980036d8f7a1dde9ecdd4f0909a883adc925942656"
+  },
+  {
+    "id": "look",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/look.webm",
+    "sha256": "bddc137799ef5120cc18b20dcdef53f0508bb817e65e0b67abc492872e61c447"
+  },
+  {
+    "id": "look",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-look.webm",
+    "sha256": "7cfa504b401f155fa21c636f0e53db29fae839035fd46f6b2f8c9c1285eaa4a3"
+  },
+  {
+    "id": "look",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-look.webm",
+    "sha256": "65b928712a8071f13de668ad22f3a62568ca3dce92df449b57ba2139345863ba"
+  },
+  {
+    "id": "look",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/look.webm",
+    "sha256": "bddc137799ef5120cc18b20dcdef53f0508bb817e65e0b67abc492872e61c447"
+  },
+  {
+    "id": "sway",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/sway.webm",
+    "sha256": "bd58b64e60decc03445fa902e8feab45ed08e230b2d9b6763dc0ffa34b793cf0"
+  },
+  {
+    "id": "sway",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-sway.webm",
+    "sha256": "1da252745f66105bb6d8d3dd496b954cf0a95e39ccae07b8c726d02b027a11f3"
+  },
+  {
+    "id": "sway",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-sway.webm",
+    "sha256": "4190e00c467e9ba971c579c2ee791e61bb811a4c0c19735a4ccddbf066504224"
+  },
+  {
+    "id": "sway",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/sway.webm",
+    "sha256": "bd58b64e60decc03445fa902e8feab45ed08e230b2d9b6763dc0ffa34b793cf0"
+  },
+  {
+    "id": "wave",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/wave.webm",
+    "sha256": "fc49799a08856772c6f73dc5e3c30d9b3d30e1fa1871178db0784dcc94174189"
+  },
+  {
+    "id": "wave",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-wave.webm",
+    "sha256": "ad1f458c2bfa0fb3b7326fdfb13bd47406e23e88b63ada1c2f6d149d95a1de78"
+  },
+  {
+    "id": "wave",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-wave.webm",
+    "sha256": "2a1c0cc4b99e17e530db68427e953623332406c185173032d9055845760b9f26"
+  },
+  {
+    "id": "wave",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/wave.webm",
+    "sha256": "fc49799a08856772c6f73dc5e3c30d9b3d30e1fa1871178db0784dcc94174189"
+  },
+  {
+    "id": "jump",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/jump.webm",
+    "sha256": "4015b35cef152d3f4bfb64ab28c101e352bba78171e93918da7a57206a0dcfe3"
+  },
+  {
+    "id": "jump",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-jump.webm",
+    "sha256": "90eb81b3be02f8daba844cb0ea2000993b38d95bd66b6d3d3a14a54bda81059e"
+  },
+  {
+    "id": "jump",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-jump.webm",
+    "sha256": "e80cac6c779ede6f16a5fd28a02077f74520c25bb1414420f9fc20d6d83149e7"
+  },
+  {
+    "id": "jump",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/jump.webm",
+    "sha256": "4015b35cef152d3f4bfb64ab28c101e352bba78171e93918da7a57206a0dcfe3"
+  },
+  {
+    "id": "shy",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/shy.webm",
+    "sha256": "35a7b4d863499519e23922603d48846f9a6a1d8f4a85ba9f8fd901c61ce57367"
+  },
+  {
+    "id": "shy",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-shy.webm",
+    "sha256": "520c2e1b940b0b0293ff521ef3a68417e1a3d06912ce4d0ba8218f6f01a0717b"
+  },
+  {
+    "id": "shy",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-shy.webm",
+    "sha256": "17eeb172f374b1361ecc930caafdf946d52574bc1716a71b75070e0603431c2d"
+  },
+  {
+    "id": "shy",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/shy.webm",
+    "sha256": "35a7b4d863499519e23922603d48846f9a6a1d8f4a85ba9f8fd901c61ce57367"
+  },
+  {
+    "id": "angry",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/angry.webm",
+    "sha256": "786bbe61136d4305c003361b4c21488f47224310bb134cf03fe94170acf73aef"
+  },
+  {
+    "id": "angry",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-angry.webm",
+    "sha256": "a4ee564d8ffff5320a9f6f8fec5a4a7f7fc54c4a3971d22be20d92846cd8df99"
+  },
+  {
+    "id": "angry",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-angry.webm",
+    "sha256": "f10784d2934216d1e516365814c0fa908350f7b5991ec7b8a23839c126db74ef"
+  },
+  {
+    "id": "angry",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/angry.webm",
+    "sha256": "786bbe61136d4305c003361b4c21488f47224310bb134cf03fe94170acf73aef"
+  },
+  {
+    "id": "giggle",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/giggle.webm",
+    "sha256": "9ac3bff6b380f766b3a00c8a12f28e59dd0fc768debf517d226eaf429fef26f0"
+  },
+  {
+    "id": "giggle",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-giggle.webm",
+    "sha256": "c73b73e7be6123ba2598fcf450fd0ac1f30b5fd1b0935a56666423c31eed2633"
+  },
+  {
+    "id": "giggle",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-giggle.webm",
+    "sha256": "93bccecc6ac3bcce321cfe1934229f954ff4bac3bfdc489d37be2d648ca8dc3e"
+  },
+  {
+    "id": "giggle",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/giggle.webm",
+    "sha256": "9ac3bff6b380f766b3a00c8a12f28e59dd0fc768debf517d226eaf429fef26f0"
+  },
+  {
+    "id": "drag",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/drag.webm",
+    "sha256": "4f6876c84de9560830670a0d18c71624def4ce6ff184363b0e3a0df54a907b9f"
+  },
+  {
+    "id": "drag",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-drag.webm",
+    "sha256": "a291c135e1aecf50da86f4039e49a5021a84a03ac43f685b3c67dd8ed46ae2b4"
+  },
+  {
+    "id": "drag",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-drag.webm",
+    "sha256": "4d21e516ac62863d39a491037a7a5b715a6116a8613a3360d815de51ecd6d334"
+  },
+  {
+    "id": "drag",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/drag.webm",
+    "sha256": "4f6876c84de9560830670a0d18c71624def4ce6ff184363b0e3a0df54a907b9f"
+  },
+  {
+    "id": "walk",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/walk.webm",
+    "sha256": "baeb6b0708f17d388942eacfdf621038f3ffd5221a266c5556ae664780f3cd5b"
+  },
+  {
+    "id": "walk",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-walk.webm",
+    "sha256": "39965066381125434393358bc240bff886369a938679794353fe937c1103d482"
+  },
+  {
+    "id": "walk",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-walk.webm",
+    "sha256": "15c79b03bd26030cfaa0adea163905cbfa14133e013f0fb90c0d4f2e0797e0cf"
+  },
+  {
+    "id": "walk",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/walk.webm",
+    "sha256": "baeb6b0708f17d388942eacfdf621038f3ffd5221a266c5556ae664780f3cd5b"
+  },
+  {
+    "id": "run",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/run.webm",
+    "sha256": "7a4cf229a81261e62db6f97abf108de9d778bf38f7101808d3d0a3a90168d3f7"
+  },
+  {
+    "id": "run",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-run.webm",
+    "sha256": "69fc558bbf31b434d8f0e964c7ec078253c9b26fad6f77c32d21a823339126c5"
+  },
+  {
+    "id": "run",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-run.webm",
+    "sha256": "6bcb3adf69361003ebdf28710548d7bf7503db7c12154d7c04de0faccf8c0089"
+  },
+  {
+    "id": "run",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/run.webm",
+    "sha256": "7a4cf229a81261e62db6f97abf108de9d778bf38f7101808d3d0a3a90168d3f7"
+  },
+  {
+    "id": "float",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/float.webm",
+    "sha256": "6907f42cfd60dd284c9dc064602bef611afbd440fb1585f57bec1ce74ae9c459"
+  },
+  {
+    "id": "float",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-float.webm",
+    "sha256": "6149f434733d5004770d069527fe780ede0a5bc4fbd77177e891a7ca9363bf7f"
+  },
+  {
+    "id": "float",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-float.webm",
+    "sha256": "a6f657c1b7909b381414e779da348b7ddc5d9b2d153a4524e93bb1a8f103d62e"
+  },
+  {
+    "id": "float",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/float.webm",
+    "sha256": "6907f42cfd60dd284c9dc064602bef611afbd440fb1585f57bec1ce74ae9c459"
+  },
+  {
+    "id": "stretch",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/stretch.webm",
+    "sha256": "f00ea383654f5e8623251efd932f1b6e5e7b01c1d1e00690610121abe31fde3d"
+  },
+  {
+    "id": "stretch",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-stretch.webm",
+    "sha256": "f118ff5f4a03142957d8b3e764a71af1f881a20484ad5d32f112318f3ca0621b"
+  },
+  {
+    "id": "stretch",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-stretch.webm",
+    "sha256": "2eb59f30d2363f5684f0e27a728595d9a29bfb67a2719595758d63fc037084bd"
+  },
+  {
+    "id": "stretch",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/stretch.webm",
+    "sha256": "f00ea383654f5e8623251efd932f1b6e5e7b01c1d1e00690610121abe31fde3d"
+  },
+  {
+    "id": "bow",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/bow.webm",
+    "sha256": "eb26b923dd074e098021710ab57629c298b3f1189fa3c91362305f4f20c501ac"
+  },
+  {
+    "id": "bow",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-bow.webm",
+    "sha256": "aaed2c4e42cf16f1b8fef90028043755c85ae55cb9f7af518d8ce994339d71ab"
+  },
+  {
+    "id": "bow",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-bow.webm",
+    "sha256": "05022605291c844bc8bd79d80d4bcd2166f3195b004036fe495ba274261b137f"
+  },
+  {
+    "id": "bow",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/bow.webm",
+    "sha256": "eb26b923dd074e098021710ab57629c298b3f1189fa3c91362305f4f20c501ac"
+  },
+  {
+    "id": "think",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/think.webm",
+    "sha256": "774e84e1b1a6b118b43bbc02473e3bb995d876183707527fe65f34c07e5dceb0"
+  },
+  {
+    "id": "think",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-think.webm",
+    "sha256": "6e265668fbb836af37f9b0bbc8a884b0988146c400a5f4f7c128597d2b4b5308"
+  },
+  {
+    "id": "think",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-think.webm",
+    "sha256": "29cff052c964496322408d048fa6edf26d1f2b624cf534a499c47e911c5c411b"
+  },
+  {
+    "id": "think",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/think.webm",
+    "sha256": "774e84e1b1a6b118b43bbc02473e3bb995d876183707527fe65f34c07e5dceb0"
+  },
+  {
+    "id": "busy",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/busy.webm",
+    "sha256": "9992dd22e1f38dbbf2ed69a343fa9d81dcb481a377638cdafcb813e63c60e495"
+  },
+  {
+    "id": "busy",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-busy.webm",
+    "sha256": "b0ccf56a564dd5be1d1512ce6451b3345d77a72600e12d94477eec3a327a0e77"
+  },
+  {
+    "id": "busy",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-busy.webm",
+    "sha256": "4ed076fc3d8e91ded75dee90019241065ee590b4036816a7c0a52eda601916aa"
+  },
+  {
+    "id": "busy",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/busy.webm",
+    "sha256": "9992dd22e1f38dbbf2ed69a343fa9d81dcb481a377638cdafcb813e63c60e495"
+  },
+  {
+    "id": "celebrate",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/celebrate.webm",
+    "sha256": "6ef5a51e7759f415f26c356873a1e23c14ae50c487b971ed3ef6e48c91a01749"
+  },
+  {
+    "id": "celebrate",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-celebrate.webm",
+    "sha256": "41439a5d69bdcdb1cb818090869abc56d3ff815a94ffcd5a62cc4784f3065917"
+  },
+  {
+    "id": "celebrate",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-celebrate.webm",
+    "sha256": "20e86bcca3216c6170211027f6d18dec4922ad87a8de74c908d749b854d8e597"
+  },
+  {
+    "id": "celebrate",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/celebrate.webm",
+    "sha256": "6ef5a51e7759f415f26c356873a1e23c14ae50c487b971ed3ef6e48c91a01749"
+  },
+  {
+    "id": "sad",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/sad.webm",
+    "sha256": "888a3bdf8b33b4f34e268ae65258eed4112dfee50c740855b39558c41e679f37"
+  },
+  {
+    "id": "sad",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-sad.webm",
+    "sha256": "68b2c98e62dd979d5f53c4cb1d3ac842a9538ebbab64b1eb7e5ee13b5ef61b91"
+  },
+  {
+    "id": "sad",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-sad.webm",
+    "sha256": "3232bdc4f39b32cfacf5580dd9a10e7b8c82a490b49cfe455b1d918708af759b"
+  },
+  {
+    "id": "sad",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/sad.webm",
+    "sha256": "888a3bdf8b33b4f34e268ae65258eed4112dfee50c740855b39558c41e679f37"
+  },
+  {
+    "id": "sleep",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/sleep.webm",
+    "sha256": "a2fe26943ee37bf81aa09e0be91744ae0f89e16a9a46d48810b3af8aa814b838"
+  },
+  {
+    "id": "sleep",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-sleep.webm",
+    "sha256": "b75fbfafcec714027b732f62d7dffa47f5bd9ae23f22070731c4863bfc9f67fc"
+  },
+  {
+    "id": "sleep",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-sleep.webm",
+    "sha256": "d43f7c6e5e616ca54f75aa90208c872049b097f7b8ad3c9cf1b2d5dd0126176e"
+  },
+  {
+    "id": "sleep",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/sleep.webm",
+    "sha256": "a2fe26943ee37bf81aa09e0be91744ae0f89e16a9a46d48810b3af8aa814b838"
+  },
+  {
+    "id": "nod",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/nod.webm",
+    "sha256": "7132d5a91e713dac82f944aaea8915325f531ad2a95da0749a4ab536d9f47bb4"
+  },
+  {
+    "id": "nod",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-nod.webm",
+    "sha256": "0e49bfd94c271f7cba5db6867d2ad38fab2fec5db1d46484c8554e25ee10f06d"
+  },
+  {
+    "id": "nod",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-nod.webm",
+    "sha256": "8657961f1fc9476af1bbba7988fbbb6cce9d9ba26bbc8e94bc44f42bb8156ffe"
+  },
+  {
+    "id": "nod",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/nod.webm",
+    "sha256": "7132d5a91e713dac82f944aaea8915325f531ad2a95da0749a4ab536d9f47bb4"
+  },
+  {
+    "id": "no",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/no.webm",
+    "sha256": "5672ded84e8ffa0a6c2f81bf145b064f9660418b26ed40bb224dd6b9ac33144c"
+  },
+  {
+    "id": "no",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-no.webm",
+    "sha256": "81a6a4e9296bf3ee0fb2f8cbeb81d47f1e55b35c334888fb5729fd0c153dcd0a"
+  },
+  {
+    "id": "no",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-no.webm",
+    "sha256": "e14498de20e707fa33bfdcc7780d65d172e45236ab983a7da6b603d1a3085d6a"
+  },
+  {
+    "id": "no",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/no.webm",
+    "sha256": "5672ded84e8ffa0a6c2f81bf145b064f9660418b26ed40bb224dd6b9ac33144c"
+  },
+  {
+    "id": "wink",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/wink.webm",
+    "sha256": "f977a89d11395a2c5f75232141631cad7dee060862a8cf03b03f7eb7e7a14a3d"
+  },
+  {
+    "id": "wink",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-wink.webm",
+    "sha256": "b29c171f6188f7185022f70d68639a2c5d0d129adc8cebc6744e2518d9f525eb"
+  },
+  {
+    "id": "wink",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-wink.webm",
+    "sha256": "fe7d1746e003b9b55fcc71a418d23527e3f835d62ddbdca55e9ba877ee2d4500"
+  },
+  {
+    "id": "wink",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/wink.webm",
+    "sha256": "f977a89d11395a2c5f75232141631cad7dee060862a8cf03b03f7eb7e7a14a3d"
+  },
+  {
+    "id": "kiss",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/kiss.webm",
+    "sha256": "a209e06f1cef46c1c7ee28ef3d4c69e28b109f781a82b1df626d915d1056d3ba"
+  },
+  {
+    "id": "kiss",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-kiss.webm",
+    "sha256": "f8170631a1b3b123c0ad3b9303ca49b88443b73e98b3e1c9d3fdc55db9f41bf0"
+  },
+  {
+    "id": "kiss",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-kiss.webm",
+    "sha256": "c0aa53b141a49c53530df1cd831f5059389d90b19f92e081785d4aa8b1d46693"
+  },
+  {
+    "id": "kiss",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/kiss.webm",
+    "sha256": "a209e06f1cef46c1c7ee28ef3d4c69e28b109f781a82b1df626d915d1056d3ba"
+  },
+  {
+    "id": "hug",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/hug.webm",
+    "sha256": "98c8bf741bb63268b09457e1c5a55a54c722846d34abe050206cf2d2b9092f13"
+  },
+  {
+    "id": "hug",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-hug.webm",
+    "sha256": "f30cc1d65040a0bdc89c38745bd6995ab1350b83dca6423a04056175aefa1de5"
+  },
+  {
+    "id": "hug",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-hug.webm",
+    "sha256": "b82fdceec312e76f812f3f519791b297794c3266c2e47080fced885a74ce4d60"
+  },
+  {
+    "id": "hug",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/hug.webm",
+    "sha256": "98c8bf741bb63268b09457e1c5a55a54c722846d34abe050206cf2d2b9092f13"
+  },
+  {
+    "id": "clap",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/clap.webm",
+    "sha256": "4a8cd7e123fae482fad89b643d322a4a17abe712923549e58cb5dfd532cb8e2d"
+  },
+  {
+    "id": "clap",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-clap.webm",
+    "sha256": "9fbc17ff2a415ec416852289e5cd0fa8062c8e52d5f3c57cd1eee05c4dd86883"
+  },
+  {
+    "id": "clap",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-clap.webm",
+    "sha256": "dfebfc2229cc7e321d7300c55627a3bdb2127c15bd65ca7317a5fbca0e44be99"
+  },
+  {
+    "id": "clap",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/clap.webm",
+    "sha256": "4a8cd7e123fae482fad89b643d322a4a17abe712923549e58cb5dfd532cb8e2d"
+  },
+  {
+    "id": "cheer",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/cheer.webm",
+    "sha256": "2cf507251a67b6edea40b13d01afb4d4671dc49eab18bc31c6893862195ba5bc"
+  },
+  {
+    "id": "cheer",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-cheer.webm",
+    "sha256": "edf0913a3b75d54ce2e6904bf8d468dad45b65f415c538aedb7a82bfdfa9c2d3"
+  },
+  {
+    "id": "cheer",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-cheer.webm",
+    "sha256": "2f5c33e42aa397b8409dd94dd85ede1eb1cbe544ba7335004a955fd770e6e69e"
+  },
+  {
+    "id": "cheer",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/cheer.webm",
+    "sha256": "2cf507251a67b6edea40b13d01afb4d4671dc49eab18bc31c6893862195ba5bc"
+  },
+  {
+    "id": "beckon",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/beckon.webm",
+    "sha256": "98baf57809ff5f08eb419e7a2d99d9619be32eae62963795f51c3f90fbfaf232"
+  },
+  {
+    "id": "beckon",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-beckon.webm",
+    "sha256": "2b5d0737ad28c801adb9e5d035f36e2944b3d0bb33bba36b7ea82d5772a9b5f2"
+  },
+  {
+    "id": "beckon",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-beckon.webm",
+    "sha256": "e0778e576e7026751b688ee506b048389e64c46df236ed72a75f5f00bf9cfc60"
+  },
+  {
+    "id": "beckon",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/beckon.webm",
+    "sha256": "98baf57809ff5f08eb419e7a2d99d9619be32eae62963795f51c3f90fbfaf232"
+  },
+  {
+    "id": "shrug",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/shrug.webm",
+    "sha256": "a2464ec20b7d883d8d5ae9ae14f1d4d5b6a826c988f657c02db5dc74773c351d"
+  },
+  {
+    "id": "shrug",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-shrug.webm",
+    "sha256": "2e502e4076d1ea50a3ac8d034bfbe9092e3df3f98d544d6e34dd94e6082bfd02"
+  },
+  {
+    "id": "shrug",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-shrug.webm",
+    "sha256": "1781494a913667e424c621b827e0ae3898f3c4df3f3b0114ae7cf7ab4aad82e0"
+  },
+  {
+    "id": "shrug",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/shrug.webm",
+    "sha256": "a2464ec20b7d883d8d5ae9ae14f1d4d5b6a826c988f657c02db5dc74773c351d"
+  },
+  {
+    "id": "surprise",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/surprise.webm",
+    "sha256": "2b5425eede9107b16762aaac9cd7b4792a88c60db12973da50736895528bac22"
+  },
+  {
+    "id": "surprise",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-surprise.webm",
+    "sha256": "21bd47b415359ee47ec4f5503cf8f9b7078b2d61fb2e11f62e8843c239dddc38"
+  },
+  {
+    "id": "surprise",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-surprise.webm",
+    "sha256": "d46e4f370b01f945091a0560dce101fed1e2567e1c78e2b595a151d7ba934d8d"
+  },
+  {
+    "id": "surprise",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/surprise.webm",
+    "sha256": "2b5425eede9107b16762aaac9cd7b4792a88c60db12973da50736895528bac22"
+  },
+  {
+    "id": "sneeze",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/sneeze.webm",
+    "sha256": "2539a8e34f5edf0e667f46a8f0b71b3ef7f41426d8300819e28cdccca2d13d08"
+  },
+  {
+    "id": "sneeze",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-sneeze.webm",
+    "sha256": "656033dcc6afa1a3a13643e749b01b0e81f591465f08c8e4e760e39f38c7d73f"
+  },
+  {
+    "id": "sneeze",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-sneeze.webm",
+    "sha256": "80f202858faa43f5c7fb8f9e59e5ac0b2fed11a29c3e5788ea033f99d03b329b"
+  },
+  {
+    "id": "sneeze",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/sneeze.webm",
+    "sha256": "2539a8e34f5edf0e667f46a8f0b71b3ef7f41426d8300819e28cdccca2d13d08"
+  },
+  {
+    "id": "yawn",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/yawn.webm",
+    "sha256": "16c8bfead5a27d2e07b9c71ca55e5b35e8a478ab45c4685c97f7ea95d67e1f54"
+  },
+  {
+    "id": "yawn",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-yawn.webm",
+    "sha256": "20c498e6e75306b268521699019d26eee6d35f1a4d2d5a55ca83a26c7d5fb3b5"
+  },
+  {
+    "id": "yawn",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-yawn.webm",
+    "sha256": "38359002274e40fde8dfeaee77ee69854afad10252024f5ae434c1ee2f3ad138"
+  },
+  {
+    "id": "yawn",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/yawn.webm",
+    "sha256": "16c8bfead5a27d2e07b9c71ca55e5b35e8a478ab45c4685c97f7ea95d67e1f54"
+  },
+  {
+    "id": "wake",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/wake.webm",
+    "sha256": "9ba6bff62f90f80afac31a15cbd4bcc9078d768024d777cae0506f0cabc001c8"
+  },
+  {
+    "id": "wake",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-wake.webm",
+    "sha256": "2153af0f89aecc0cf468d9b727aff6de67012aba00f9fc4e4bf5919787348fb5"
+  },
+  {
+    "id": "wake",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-wake.webm",
+    "sha256": "731c1c9872435b251c916a65357a87cbc191f20dc9cb6145518664bc23f1b4ad"
+  },
+  {
+    "id": "wake",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/wake.webm",
+    "sha256": "9ba6bff62f90f80afac31a15cbd4bcc9078d768024d777cae0506f0cabc001c8"
+  },
+  {
+    "id": "listen",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/listen.webm",
+    "sha256": "e8656fa58c19b1e172885fc54216a98fc67819fa17ed317260b11c7e8c11085d"
+  },
+  {
+    "id": "listen",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-listen.webm",
+    "sha256": "b451235578885acdbcfd01a0746a4f13c8d5260c8c99e4e336568abed7bf5139"
+  },
+  {
+    "id": "listen",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-listen.webm",
+    "sha256": "2cd1c6d9eb327820e26ffd2b2565ed53153975e2677a1bfc6cd344ae2b682c79"
+  },
+  {
+    "id": "listen",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/listen.webm",
+    "sha256": "e8656fa58c19b1e172885fc54216a98fc67819fa17ed317260b11c7e8c11085d"
+  },
+  {
+    "id": "disco",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/disco.webm",
+    "sha256": "2282af7e29c52a630d98201271ab65f273352ee64d6664204adbe5dc285443f5"
+  },
+  {
+    "id": "disco",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-disco.webm",
+    "sha256": "bed6cd417fb3d30d6fb9577adc694c6a3739bd77b83ffaa1b5ec85890c23b0f4"
+  },
+  {
+    "id": "disco",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-disco.webm",
+    "sha256": "2b46fff9fba7e8b4a59ab81a4d96957eaeaf599f8fefcbe97a30f1001255ba32"
+  },
+  {
+    "id": "disco",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/disco.webm",
+    "sha256": "2282af7e29c52a630d98201271ab65f273352ee64d6664204adbe5dc285443f5"
+  },
+  {
+    "id": "twist",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/twist.webm",
+    "sha256": "1c84e9390cc8062c0faba6006c4d8ef920ce856420754484093a2bdf166e9030"
+  },
+  {
+    "id": "twist",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-twist.webm",
+    "sha256": "68fccadd6248eae5eeff1e914fbf21718ffaa95267afe836d7291eec6301dc86"
+  },
+  {
+    "id": "twist",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-twist.webm",
+    "sha256": "d6b198242bb6fde0ee9853133684ef7f1263300a717943bb6339b4632224186e"
+  },
+  {
+    "id": "twist",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/twist.webm",
+    "sha256": "1c84e9390cc8062c0faba6006c4d8ef920ce856420754484093a2bdf166e9030"
+  },
+  {
+    "id": "squat",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/squat.webm",
+    "sha256": "4dfb23670c08c7780a66fdb5634e18f6d78cd0bb2694fc6682ca15b1f7b95a29"
+  },
+  {
+    "id": "squat",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-squat.webm",
+    "sha256": "ca295e22e8d9979fd94fe5de3d9ff955eed668137c2860020b4a9f9e522943fa"
+  },
+  {
+    "id": "squat",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-squat.webm",
+    "sha256": "41074fbb98c42efb7abb9c82335a2ad7a5ecb708306e2d904c3af6fc1794b3ca"
+  },
+  {
+    "id": "squat",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/squat.webm",
+    "sha256": "4dfb23670c08c7780a66fdb5634e18f6d78cd0bb2694fc6682ca15b1f7b95a29"
+  },
+  {
+    "id": "balance",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/balance.webm",
+    "sha256": "2ca819fdeca97d7bf8e9447ec8a388865442ef9190a485f82ea856db8f1d14e2"
+  },
+  {
+    "id": "balance",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-balance.webm",
+    "sha256": "ee3c418f186e0dcd8ba57dc947d8ee2003604c1b1797584d8e78fea6a4eef6f8"
+  },
+  {
+    "id": "balance",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-balance.webm",
+    "sha256": "a1e1e3dbb8a9fd5680f64c6daf25a182484fc5dd592e1a0dcd85fc1f0d820ddd"
+  },
+  {
+    "id": "balance",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/balance.webm",
+    "sha256": "2ca819fdeca97d7bf8e9447ec8a388865442ef9190a485f82ea856db8f1d14e2"
+  },
+  {
+    "id": "kick",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/kick.webm",
+    "sha256": "e06499fe8d4e3c1a94833f73ab96e1f0c9d9b3dd5a7c9e1b22210a765b2bc06e"
+  },
+  {
+    "id": "kick",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-kick.webm",
+    "sha256": "af012a9ff9978b678ec7e3f567f621b9d94437a5788c530be64da5a81c1f63ad"
+  },
+  {
+    "id": "kick",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-kick.webm",
+    "sha256": "7a3e168a29bfacde2cc8b1dddb51add7d9a1efa0f47d24a9fb89849110caf6b7"
+  },
+  {
+    "id": "kick",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/kick.webm",
+    "sha256": "e06499fe8d4e3c1a94833f73ab96e1f0c9d9b3dd5a7c9e1b22210a765b2bc06e"
+  },
+  {
+    "id": "shakeoff",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/shakeoff.webm",
+    "sha256": "b59d54635ecab87664a3b2f9a9597f7da2613f9b4b91c22158d86ea86b13017c"
+  },
+  {
+    "id": "shakeoff",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-shakeoff.webm",
+    "sha256": "365f0b3d0dd9059f6dbedb0e6df919c76529e95d4ca899378bf3884e91184c78"
+  },
+  {
+    "id": "shakeoff",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-shakeoff.webm",
+    "sha256": "d68089b7ec9079650781fb21b32f414554759df38e7e6155bac30687325c834c"
+  },
+  {
+    "id": "shakeoff",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/shakeoff.webm",
+    "sha256": "b59d54635ecab87664a3b2f9a9597f7da2613f9b4b91c22158d86ea86b13017c"
+  },
+  {
+    "id": "thank",
+    "costume": "watermelon",
+    "frame": 33,
+    "file": "assets/clips/thank.webm",
+    "sha256": "8f9b09e51a3efd6124f382db25767540ce4fdde30fb319e1b15af4d060912969"
+  },
+  {
+    "id": "thank",
+    "costume": "orange",
+    "frame": 56,
+    "file": "assets/wardrobe/lulu-orange-thank.webm",
+    "sha256": "edebca3034aa9319ac6a26b68a2eed16644280e5de690170c8700e3024ec3671"
+  },
+  {
+    "id": "thank",
+    "costume": "star",
+    "frame": 80,
+    "file": "assets/wardrobe/lulu-star-thank.webm",
+    "sha256": "7f9236927da741df058026049e8e6e70aa8c0400bf986133c47a1f1486ad4afc"
+  },
+  {
+    "id": "thank",
+    "costume": "watermelon",
+    "frame": 96,
+    "file": "assets/clips/thank.webm",
+    "sha256": "8f9b09e51a3efd6124f382db25767540ce4fdde30fb319e1b15af4d060912969"
+  }
+]

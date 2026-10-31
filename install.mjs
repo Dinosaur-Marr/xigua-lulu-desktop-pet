@@ -46,14 +46,14 @@ export function verifyPack(root=ROOT) {
     if(sha(fs.readFileSync(safe(root,relative)))!==hash)throw Error('Package checksum mismatch: '+relative);
   }
   const actions=json(path.join(root,'config/actions.json')),mapping=json(path.join(root,'config/mapping.json')),memes=json(path.join(root,'config/memes.json'));
-  if(actions.length!==40 || new Set(actions.map(a=>a.id)).size!==40 || Object.keys(mapping).length!==127 || Object.keys(memes).length!==27)throw Error('Incomplete asset pack');
+  if(actions.length!==80 || new Set(actions.map(a=>a.id)).size!==80 || Object.keys(mapping).length!==167 || Object.keys(memes).length!==27)throw Error('Incomplete asset pack');
   for(const id of Object.values(mapping)) if(!actions.some(a=>a.id===id))throw Error('Unknown animation: '+id);
   for(const a of actions)if(!manifest.files['assets/clips/'+a.id+'.webm'])throw Error('Unverified clip');
   for(const name of Object.keys(memes))if(!manifest.files['assets/memes/'+name+'.png'])throw Error('Unverified meme');
   for(const name of ['animations','direction-patches','mapping','memes','actions'])if(!manifest.files['config/'+name+'.json'])throw Error('Unverified config');
   if(!manifest.files['config/wardrobe.json'] || !manifest.files['runtime/lulu-wardrobe.js'])throw Error('Unverified wardrobe runtime');
   const wardrobe=json(path.join(root,'config/wardrobe.json'));
-  if(wardrobe.length!==86 || new Set(wardrobe.map(a=>a.name)).size!==86)throw Error('Incomplete wardrobe');
+  if(wardrobe.length!==166 || new Set(wardrobe.map(a=>a.name)).size!==166)throw Error('Incomplete wardrobe');
   for(const entry of wardrobe)if(!/^lulu-(?:(?:orange|star)-[a-z]+|change-(?:orange|watermelon)|change-(?:orange|watermelon)-star|change-star-(?:orange|watermelon))$/.test(entry.name)||entry.file!==`assets/wardrobe/${entry.name}.webm`||!manifest.files[entry.file])throw Error('Unverified wardrobe clip');
   return {manifest,actions,mapping,memes};
 }
@@ -96,7 +96,7 @@ export function planInstall({root=ROOT,dshHome=process.env.DSH_HOME||path.join(o
   const config=fs.existsSync(cfgFile)?parseJsonc(fs.readFileSync(cfgFile,'utf8')):{};
   if(config.pets!==undefined&&!Array.isArray(config.pets))throw Error('Invalid existing pets configuration');
   config.animations=json(path.join(root,'config/animations.json'));
-  // Make all 40 unique actions available by name in the manual menu.
+  // Make all 80 unique actions available by name in the manual menu.
   config.memes=memes;
   config.whisperPrompt='你是主人桌面上的西瓜噜噜，圆滚滚的黄色小伙伴，头顶小橙子，穿西瓜短裤。偶尔碎碎念一句，20字以内，活泼温暖、带点贪吃的小俏皮。';
   config.pets=config.pets?.length?config.pets.map(p=>({...p,name:'西瓜噜噜'})):[defaultPet];
@@ -133,7 +133,7 @@ export function install(options={}) {
     }
     receipt.state='rolled-back';fs.writeFileSync(receiptFile,JSON.stringify(receipt,null,2));throw error;
   }
-  return {installed:true,files:plan.changes.length,backup,actions:40,costumes:3,dressingRoutes:6,memes:27,restartRequired:true};
+  return {installed:true,files:plan.changes.length,backup,actions:80,costumes:3,dressingRoutes:6,memes:27,restartRequired:true};
 }
 export function restore(backup,{dshHome=process.env.DSH_HOME||path.join(os.homedir(),'.dsh')}={}) {
   dshHome=path.resolve(dshHome);backup=path.resolve(backup);
@@ -166,7 +166,7 @@ if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.ur
         if(key==='--restore')restoreDir=value;else options[key==='--profile'?'profile':'dshHome']=value;
       }else throw Error('Unknown argument: '+args[i]);
     }
-    const result=verify?(verifyPack(),{verified:true,actions:40,memes:27}):restoreDir?restore(restoreDir,options):install(options);
+    const result=verify?(verifyPack(),{verified:true,actions:80,memes:27}):restoreDir?restore(restoreDir,options):install(options);
     console.log(JSON.stringify(result,null,2));
     if(result.restartRequired)console.log('请完全退出并重新打开 DeepSeek Harness，使新素材与朝向修复生效。');
   }catch(error){console.error(error.message);process.exitCode=1;}
